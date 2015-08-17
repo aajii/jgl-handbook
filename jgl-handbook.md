@@ -82,7 +82,7 @@ Tuottaja on viime kädessä vastuussa ainakin seuraavista asioista.
 
 ## Pulmatilainteiden ratkaisu
 
-## Viikkorutiinit
+# Rutiinit ja tapaamiset
 
 Lopullisten tiimien muodostamisen jälkeen jokainen ryhmä noudattaa JGL-viikkorutiineja, joihin kuuluvat seuraavat asiat:
 
@@ -90,11 +90,34 @@ Lopullisten tiimien muodostamisen jälkeen jokainen ryhmä noudattaa JGL-viikkor
  * Viikkoraportin laatiminen
  * Osaamisaluetapaamisiin osallistuminen
 
+## Ohjaustapaamiset
+
 *Säännölliset ohjaustapaamiset* ovat viikottaisia tai enintään kahden viikon välein olevia kokoontumisia, jossa on mukana koko projektitiimi sekä kummiohjaaja. Ryhmä on itse aktiivinen oman kummiohjaajan suuntaan ja sopii ohjausajankohdan. Viime kädessä tuottaja vastaa ajan sopimisesta, ja mikäli kasvokkain tapaaminen ei onnistu niin sopii tarvittaessa Skype- tai sähköpostipalaverin. 
+
+Ryhmä esittää ilman eri pyyntöä tapaamisessa ainakin seuraavat asiat.
+
+ * Edellisessä tapaamisessa sovittujen asioiden toteutuminen.
+ * Pelin ja projektin tila lyhyesti. 
+ * Edellisen tapaamisen jälkeen suoritetut tehtävät ja niihin käytetty aika. Mitä suunniteltua jäi tekemättä? Mitä suunnittelematonta tehtiin? 
+ * Arvio aikataulussa ja projektin laajuudessa pysymisestä. 
+
+Yksi ryhmän jäsenistä toimii sihteerinä kirjaten läsnäolijat sekä yleisluontoisesti palaverissa käsitellyt asiat ja tehdyt päätökset. Sihteeri valitaan ennen ohjaustapaamista. Muistion perusteella myös myös ne jäsenet ketkä eivät päässeet paikalle tapaamiseen saavat käsityksen palaverissa käsitellyistä ja sovituista asioista. Muistiota voi hyödyntää myös projektiraportin osana projektin päättyessä. 
+
+Muistio tallennetaan Trelloon. Saattaa olla hyödyllistä luoda oma lista palaverimuistioille. Laita kortin nimeksi `vvvv-kk-pp-ohjaustapaaminen`, eli esimerkiksi `2015-08-17-ohjaustapaaminen`. 
+
+## Viikkoraportit
 
 *Viikkoraportti* pitää sisällään menneen viikon työtehtävät jäsenittäin ja niihin käytetyn työajan, sekä suunnitelman tulevan viikon työtehtävien jaosta ja ajoituksesta. Lisäksi viikkoraportissa on arvio projektin kokonaiskehityksestä (aikataulu, laajuus, esiin tulleet haasteet, jne.) ja mahdolliset toimenpide-ehdotukset (rajaaminen, tehtävien tai roolien muuttaminen, jne.)
 
+## Osaamisaluetapaamiset
+
 *Osaamisaluetapaamisiin* kokoontuu säännöllisesti (viikoittain tai kahden viikon välein) tietyn osaamisalueen henkilöt *kaikista* ryhmistä. Esimerkiksi koodaajat kokoontuvat (ohjaajan kanssa), graafikot muiden graafikoiden kanssa ja niin edelleen. Myös tuottajat kokoontuvat muiden ryhmien tuottajien kanssa. Osaamisaluetapaamisten tarkoituksena on jakaa tietoa projekteista ja verkostoitua ryhmien välillä, mutta myös kertoa hyväksi havaituista käytänteistä ja toimintamalleista. 
+
+## Esittelytilaisuudet
+
+Ryhmät kokoontuvat säännöllisesti esittelemään tuotostaan ja kertomaan projektistaan. Tämä julkinen, tai JGL-projektien välinen, esiintyminen on tärkeä osa projektin etenemistä. Pelialalla on varsin tärkeää oppia kertomaan pelistä lyhyesti tai pitkästi ("pitchata") pyydettäessä. Mitä mielenkiintoisempi esityksesi on, sitä enemmän se luo kiinnostusta tuotteeseen ja voi siten saada esimerkiksi rahoittajat tai muut yhteistyökumppanit kiinnostumaan tuotteestasi. 
+
+JGL:ssä näitä esittelytilaisuuksia on ainakin *gatet* alussa (noin kaksi kappaletta), joissa valitaan parhaat ideat, sekä myöhemmin virstanpylväät (eng. *milestone*), joissa tiimit esittelevät puolivalmiita pelejä. Loppuesittelyssä jokainen tiimi esittelee valmiin tuotoksensa. Tähän tilaisuuteen on kaikilla vapaa pääsy.
 
 # Sparraus ja asiantuntijoiden hyödyntäminen
 
