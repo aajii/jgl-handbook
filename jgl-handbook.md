@@ -162,9 +162,7 @@ Trellon integrointi Flowdockiin. Laitatko @tienkou ohjeet tähän.
 
 Lähtökohtaisesti kehityksessä käytetään maksuttomia kehitysohjelmistoja, kuten Unity Personal Edition. Mikäli ryhmällä on peruste jonkin (edullisen) maksullisen lisenssin käyttämiselle, keskustelkaa siitä JGL-henkilökunnan kanssa. 
 
-## Pikaviestintä
 
-*Flowdock* on JGL:ssä käytetty pikaviestijärjestelmä. 
 
 ## Versiohallinta
 
@@ -174,7 +172,11 @@ Mikäli et ole opiskelija, voit kuitenkin rekisteröityä GitHubiin. Riittää, 
 
 Kun tiedät ryhmäsi lopullisen kokoonpanon, lisää kaikille ryhmäsi jäsenille sekä kummiohjaajalle pääsyoikeus (collaborator) varastoon.
 
-Integroi GitHubin loki Flowdockiin seuraavasti. Tämä tarvitsee tehdä vain yhden kerran flowia kohden, joten jokaisen tiimiläisen ei tarvitse tätä tehdä.
+## Flowdock-integraatiot
+
+*Flowdock* on paitsi pikaviestijärjestelmä, myös tavallaan "keskitin", johon voi integroida useita eri palveluja, kuten versiohallintaa, tehtävähallintaa tai vaikkapa Twitter-tilejä.
+
+Kaikki tiimit integroivat GitHubin lokin Flowdockiin seuraavasti. Tämä tarvitsee tehdä vain yhden kerran flowia kohden, joten jokaisen tiimiläisen ei tarvitse tätä tehdä.
 
  * Perusta GitHubiin uusi tietovarasto (repository)
  * Mene tiimisi flown asetuksiin, klikkaa Inbox Sources -kohdasta GitHub ja Add new. 
@@ -183,6 +185,8 @@ Integroi GitHubin loki Flowdockiin seuraavasti. Tämä tarvitsee tehdä vain yhd
  * Klikkaa *Add webhook* ja pasteta siihen Flowdockista saamasi URL siihen. Huomaa klikata kohta *Send me everything*. 
 
 Nyt kyseiseen GitHubin repoon tehdyt muutokset näkyvät ryhmäsi flowssa.
+
+Integroi myös *Trello*-board flow-näkymääsi. (TODO: Lisää tarkemmat ohjeet.)
 
 ## Ajankäytön hallinta
 
