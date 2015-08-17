@@ -104,6 +104,8 @@ Suomen laki määrittelee miten tekijälle muodostuu tekijänoikeus teokseen, jo
 
 Tämän takia on tärkeää, että ryhmät sopivat itse siitä, miten omistajuus lopulliseen pelituotteeseen ryhmän sisällä jakautuu. Tietokoneohjelmien (kuten pelit) kohdalla käytetään usein lyhennettä IPR (Intellectuel Property Rights, aineettomat oikeudet). Näistä oikeuksista on siis hyvä sopia jo projektin alkuvaiheessa, jotta lopussa ei tule yllätyksiä.
 
+Jokainen ryhmä toimittaa raportin annettuna ajankohtana siitä miten aineettomien oikeuksien jakautuminen ryhmän sisällä tapahtuu.
+
 Jyväskylä Game Lab ei vaadi eikä tule vaatimaan aineettomien oikeuksien siirtämistä JGL-hankkeelle, yliopistolle, ammattikorkeakoululle, tai millekään muulle taholle, joten pelien IPR:stä sopiminen on siinä mielessä täysin ryhmän omissa käsissä.
 
 Yksi mahdollisuus on sopia, että peli kokonaisuudessaan (lähdekoodi, grafiikka, äänet, videot, musiikki, ...) sijoitetaan avoimen lisenssin alaisuuteen - mahdollisesti myös maksuttomasti. Tähän täytyy kuitenkin olla ryhmän kaikkien jäsenten kirjallinen suostumus, joten asiasta on hyvä tehdä muodollinen sopimuspaperi. JGL:ssä on tätä varten sopimuspohjia käytettävissä. 
