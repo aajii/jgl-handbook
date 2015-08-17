@@ -41,6 +41,8 @@ Oman substanssiosaamisen mahdollisuuksien hyödyntäminen kokonaisuudessa
 
 ## Vaiheistus ja kalenteriaika
 
+Kaikki JGL-tapahtumat (luennot, "gatet", milestonet, esittelytilaisuudet, lopetus, jne.) löytyvät Google-kalenterista, joka löytyy hankkeen kotisivuilta: www.jklgamelab.fi. Voit myös tilata kyseisen kalenterin osaksi omaa Google-kalenteriasi jolloin saat synkronoitua tapahtumat esimerkiksi puhelimeesi. Klikkaa `+`-kuvaketta kalenterin oikeassa alareunassa, ja kirjaudu Google-tilillesi. 
+
 ## Kunkin vaiheen alkamiseen ja päättymiseen liittyvät toimet
 
 ## Labin päättyminen
