@@ -82,6 +82,18 @@ Tuottaja on viime kädessä vastuussa ainakin seuraavista asioista.
 
 ## Viikkorutiinit
 
+Lopullisten tiimien muodostamisen jälkeen jokainen ryhmä noudattaa JGL-viikkorutiineja, joihin kuuluvat seuraavat asiat:
+
+ * Säännöllisten ohjaustapaamisten sopiminen kummiohjaajan kanssa
+ * Viikkoraportin laatiminen
+ * Osaamisaluetapaamisiin osallistuminen
+
+*Säännölliset ohjaustapaamiset* ovat viikottaisia tai enintään kahden viikon välein olevia kokoontumisia, jossa on mukana koko projektitiimi sekä kummiohjaaja. Ryhmä on itse aktiivinen oman kummiohjaajan suuntaan ja sopii ohjausajankohdan. Viime kädessä tuottaja vastaa ajan sopimisesta, ja mikäli kasvokkain tapaaminen ei onnistu niin sopii tarvittaessa Skype- tai sähköpostipalaverin. 
+
+*Viikkoraportti* pitää sisällään menneen viikon työtehtävät jäsenittäin ja niihin käytetyn työajan, sekä suunnitelman tulevan viikon työtehtävien jaosta ja ajoituksesta. Lisäksi viikkoraportissa on arvio projektin kokonaiskehityksestä (aikataulu, laajuus, esiin tulleet haasteet, jne.) ja mahdolliset toimenpide-ehdotukset (rajaaminen, tehtävien tai roolien muuttaminen, jne.)
+
+*Osaamisaluetapaamisiin* kokoontuu säännöllisesti (viikoittain tai kahden viikon välein) tietyn osaamisalueen henkilöt *kaikista* ryhmistä. Esimerkiksi koodaajat kokoontuvat (ohjaajan kanssa), graafikot muiden graafikoiden kanssa ja niin edelleen. Myös tuottajat kokoontuvat muiden ryhmien tuottajien kanssa. Osaamisaluetapaamisten tarkoituksena on jakaa tietoa projekteista ja verkostoitua ryhmien välillä, mutta myös kertoa hyväksi havaituista käytänteistä ja toimintamalleista. 
+
 # Sparraus ja asiantuntijoiden hyödyntäminen
 
 Kuka sparraa ja ketä, ketä käytössä ja miten asiantuntijoita voi hyödyntää
