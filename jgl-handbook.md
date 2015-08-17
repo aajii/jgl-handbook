@@ -116,8 +116,9 @@ Ryhmäilmoittautumisen seurauksena sinut liitetään automaattisesti sähköpost
 
 
 
-## ESR-Aloituslomake
+## ESR-lomake
 
+Jokainen hankkeessa aloittanut osallistuja täyttää niin sanotun *ESR-aloituslomakkeen*. Tämä kuuluu hankkeen byrokratiaan. Vain hankkeen varsinaiset osallistujat täyttävät lomakkeen, eli esimerkiksi sparraajat tai ulkopuoliset kouluttajat eivät lomaketta täytä. Vastaavasti lopettaessaan hankkeeseen osallistumisen jokainen osallistuja täyttää *ESR-lopetuslomakkeen*. Jos esimerkiksi työllistyt hankkeen aikana kokopäiväisesti etkä voi jatkaa hankkeessa jakson loppuun, sinun täytyy erikseen pyytää että saat täyttää lopetuslomakkeen. Lopetuslomakkeen täyttäneet saavat todistuksen osallistumisestaan Jyväskylä Game Labiin.
 
 # Juomatehdas, tilat ja niissä toimiminen
 
