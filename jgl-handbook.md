@@ -16,17 +16,23 @@ Jyväskylä Game Lab (JGL) - peliala kansainväliseksi liiketoiminnaksi monitiet
 
 # JGL toimintaympäristönä
 
+Mantra jota tulee toistettua sekä JGL:stä kertovissa tilaisuuksissa että projektiryhmien kanssa työskenneltäessä: JGL ei ole pelintekokurssi, vaan melko ainutlaatuinen toimintaympäristö jossa ammattikorkeakoulun, yliopiston ja alan toimijoiden vahvuuksia pyritään tuomaan esiin. JGL:ssä toimintaympäristönä korostuu ainakin seuraavat kolme asiaa: yrittäjämäinen asenne, tiimityöskentely ja monialaisuus. Käydään nämä lyhyesti läpi seuraavaksi.
+
 ## Yrittäjämäinen asenne
 
-Aktiivinen ja itseohjautuva, mahdollisuuksiin tarttuva asenne kaikessa tekemisessä
-Verkostoja hyödyntävä ja etsivä toiminta
+Kaikki osallistujat eivät ole eikä kaikista tule yrittäjiä, eikä tarvitsekaan tulla. JGL:ssä *yrittäjämäinen asenne* on kuitenkin tärkeää. Mitä yrittäjämäinen asenne on? Ajattelemme niin, että jokaisen osallistujan tulee olla omassa toiminnassaan tavoitteita asettava, itseohjautuva, ja mahdollisuuksiin tarttuva. Tekeminen tähtää aktiivisesti tuloksen tekemiseen, missä jokainen osallistuja asettaa itselleen tavoitteita joiden toteuttamiseen sitten tähdätään ja pyritään. 
 
-## tiimityöskentely
+Näistä asioista myös yrittämisessä on kysymys: itsensä haastamisessa ja omatoimisesta haasteisiin tarttumisesta. JGL-projektin aikana sinua ja ryhmääsi ei välttämättä "komenneta" tekemään peliisi mitään erityisiä asioita, vaan kehittämisen ja projektin eteenpäin menemisen motivaatio tulee sinusta ja ryhmältä itseltänne. 
 
-Ryhmätyötaitojen merkitys työllistymisessä, työelämässä ja liiketoiminnassa
-Vastuun ottaminen ja jakaminen, tuloshakuisuus
+## Tiimityöskentely
 
-## monialaisuus
+Voi sanoa, että koko peliala seisoo tai kaatuu ryhmätyötaitojen mukana. Ryhmätyötaitojen merkitys niin työllistymisessä kuin sitten työelämässä, projektitoiminnassa ja liiketoiminnassa on äärettömän tärkeä. Jokaisen tiimin jäsenen on puhallettava yhteen hiileen ja otettava vastuu omalla paikallaan, jotta tuote, peli (tai mikä tahansa muu), voi menestyä. 
+
+Kukaan osallistujista hankkeen puitteissa ei ole juridisesti vastuussa tekemisistään toisilleen, eikä kukaan ole varsinaisesti toisen esimies siitä näkökulmasta kuten työelämässä asia ymmärretään. Niinpä JGL on ennen muuta *mahdollisuus* jokaiselle osallistujalle kokeilla, näyttää osaamistaan niin omalla substanssiosaamisen alueellaan kuin ryhmätyöskentelyssä. Kuitenkin, kuten "oikeissa töissä", myös JGL:ssä tuottajan rooli on projektipäällikön rooli jonka merkitys projektin onnistumiselle on suuri. Vaikka virallisesti kukaan ei JGL-projekteissa toisen esimies olekaan, tulee ryhmän kunnioittaa roolijakoa ja sen mukanaan tuomia vastuita. 
+
+On myös erittäin hyödyllistä tutustua muihin tiimeihin ja verkostoitua heidän kanssaan JGL-jakson aikana. Myös tämä verkostoituminen on osa tiimityöskentelyä ja antaa tukea myös oman peliprojektin kehittämiselle. 
+
+## Monialaisuus
 
 Monitieteisten ja –taitoisten ryhmien 
 Oman substanssiosaamisen mahdollisuuksien hyödyntäminen kokonaisuudessa
