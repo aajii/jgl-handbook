@@ -168,7 +168,15 @@ Mikäli et ole opiskelija, voit kuitenkin rekisteröityä GitHubiin. Riittää, 
 
 Kun tiedät ryhmäsi lopullisen kokoonpanon, lisää kaikille ryhmäsi jäsenille sekä kummiohjaajalle pääsyoikeus (collaborator) varastoon.
 
-Gitin (Yousouurce) integrointi Flowdockiin?
+Integroi GitHubin loki Flowdockiin seuraavasti. Tämä tarvitsee tehdä vain yhden kerran flowia kohden, joten jokaisen tiimiläisen ei tarvitse tätä tehdä.
+
+ * Perusta GitHubiin uusi tietovarasto (repository)
+ * Mene tiimisi flown asetuksiin, klikkaa Inbox Sources -kohdasta GitHub ja Add new. 
+ * Anna "lähteelle" nimi, esim. `Tiimi-GitHub` (korvaa `Tiimi`-sana projektisi nimellä) ja paina *Create target URL*
+ * Siirry nyt perustamasi tietovaraston asetuksiin GitHubissa ja kohtaan *Webhooks & Services*
+ * Klikkaa *Add webhook* ja pasteta siihen Flowdockista saamasi URL siihen. Huomaa klikata kohta *Send me everything*. 
+
+Nyt kyseiseen GitHubin repoon tehdyt muutokset näkyvät ryhmäsi flowssa.
 
 ## Ajankäytön hallinta
 
