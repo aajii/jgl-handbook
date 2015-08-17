@@ -108,7 +108,7 @@ Ryhmäilmoittautumisen seurauksena sinut liitetään automaattisesti sähköpost
 
 ## Flowdock
 
-*Flowdock* on pikaviestijärjestelmä, jota käytetään JGL:ssä sisäiseen pikaviestintään. Rekisteröidy JGL-flow:iin osoitteessa `http://bit.ly/jgl-flowdock`.
+*Flowdock* on pikaviestijärjestelmä, jota käytetään JGL:ssä sisäiseen pikaviestintään. Pyydä henkilökunnalta rekisteröitymislinkki sinun osallistujaryhmäsi "flowiin".
 
 ## wiki
 
