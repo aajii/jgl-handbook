@@ -2,6 +2,8 @@ Ensimmäisenä päivänä (tai jopa ennen aloitusta) jaettava tietopaketti, joka
 
 # Tervetuloa Jyväskylä Game Labiin
 
+Joo.
+
 Onnittelut! Juuri sinä olet valikoitunut suuresta hakijajoukosta *Jyväskylä Game Lab*-pelikehityskeskuksen (JGL) osallistujaksi. JGL on vuosina 2015--2016 Jyväskylässä toteutettava hanke, jossa kokeillaan uusia opetus- ja opiskelumalleja pelien kehittäjien tueksi. Toimintaa keskittyy Juomatehtaan 2. kerrokseen, joka sijaitsee Seminaarinmäellä, Vapaudenkadulla. 
 
 Saat tulevien kuukausien aikana käyttöösi käyttöönsä modernit työtilat, ammattitaitoisen ohjauksen sekä sparraustiimin joka koostuu kansallisista ja kansainvälisistä pelialan huippuosaajista. 
