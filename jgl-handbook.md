@@ -160,6 +160,10 @@ Trellon integrointi Flowdockiin. Laitatko @tienkou ohjeet tähän.
 
 Lähtökohtaisesti kehityksessä käytetään maksuttomia kehitysohjelmistoja, kuten Unity Personal Edition. Mikäli ryhmällä on peruste jonkin (edullisen) maksullisen lisenssin käyttämiselle, keskustelkaa siitä JGL-henkilökunnan kanssa. 
 
+## Pikaviestintä
+
+*Flowdock* on JGL:ssä käytetty pikaviestijärjestelmä. 
+
 ## Versiohallinta
 
 Käytämme JGL:ssä GitHubia versiohallintaan. Rekisteröidy ennen lab-jakson alkua GitHubiin (http://github.com). Mikäli olet opiskelija, ota itsellesi myös GitHub Education Pack (https://education.github.com), jolla saat viisi yksityistä varastoa (repository) ilmaiseksi opiskeluiden ajaksi. Varmista, että olet todella saanut nämä ilmaiset yksityiset varastot ennen lab-jakson alkua.
