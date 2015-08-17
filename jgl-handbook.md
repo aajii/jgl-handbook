@@ -16,7 +16,7 @@ Jyväskylä Game Lab (JGL) - peliala kansainväliseksi liiketoiminnaksi monitiet
 
 # JGL toimintaympäristönä
 
-Mantra jota tulee toistettua sekä JGL:stä kertovissa tilaisuuksissa että projektiryhmien kanssa työskenneltäessä: JGL ei ole pelintekokurssi, vaan melko ainutlaatuinen toimintaympäristö jossa ammattikorkeakoulun, yliopiston ja alan toimijoiden vahvuuksia pyritään tuomaan esiin. JGL:ssä toimintaympäristönä korostuu ainakin seuraavat kolme asiaa: yrittäjämäinen asenne, tiimityöskentely ja monialaisuus. Käydään nämä lyhyesti läpi seuraavaksi.
+Mantra jota tulee toistettua sekä JGL:stä kertovissa tilaisuuksissa että projektiryhmien kanssa työskenneltäessä: JGL ei ole pelintekokurssi, vaan melko ainutlaatuinen toimintaympäristö jossa ammattikorkeakoulun, yliopiston ja alan toimijoiden vahvuuksia pyritään tuomaan esiin osallistujien hyväksi. JGL:ssä toimintaympäristönä korostuu ainakin seuraavat kolme asiaa: yrittäjämäinen asenne, tiimityöskentely ja monialaisuus. Käydään nämä lyhyesti läpi seuraavaksi.
 
 ## Yrittäjämäinen asenne
 
