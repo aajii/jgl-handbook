@@ -45,7 +45,7 @@ Mikäli olet työtön, rohkaisemme sinua tarkistamaan työpaikkailmoituksia ja l
 
 ## Mitä labin jälkeen
 
-Prosessin jälkeen projektiin osallistuneet voivat hakea peli-idealle tai peliprotolleen jatkotyöskentely- tai rahoitusmahdollisuuksia useasta yrityshautomosta Jyväskylän alueella. Esimerkiksi JGL:n naapurissa toimiva Jyväskylän Yritystehdas on erinomainen resurssi aloittelevalle yrittäjälle. Pyrimme järjestämään säännöllisiä vierailuja Yritystehtaalla lab-jakson aikana.
+Prosessin jälkeen projektiin osallistuneet voivat hakea peli-idealle tai peliprotolleen jatkotyöskentely- tai rahoitusmahdollisuuksia useasta yrityshautomosta Jyväskylän alueella. Esimerkiksi JGL:n naapurissa toimiva Jyväskylän Yritystehdas on erinomainen resurssi aloittelevalle yrittäjälle. Pyrimme järjestämään säännöllisiä vierailuja Yritystehtaalla lab-jakson aikana. Huomaa, että Jyväskylä Game Lab ei tarjoa projekteille jatkorahoitusmahdollisuutta, vaan rahoitusta on haettava muista lähteistä. 
 
 # Ryhmätyöskentely ja oma rooli
 
