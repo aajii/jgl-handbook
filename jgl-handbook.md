@@ -121,11 +121,13 @@ Muistio tallennetaan Trelloon. Saattaa olla hyödyllistä luoda oma lista palave
 
 ## Viikkoraportit
 
-*Viikkoraportti* pitää sisällään menneen viikon työtehtävät jäsenittäin ja niihin käytetyn työajan, sekä suunnitelman tulevan viikon työtehtävien jaosta ja ajoituksesta. Lisäksi viikkoraportissa on arvio projektin kokonaiskehityksestä (aikataulu, laajuus, esiin tulleet haasteet, jne.) ja mahdolliset toimenpide-ehdotukset (rajaaminen, tehtävien tai roolien muuttaminen, jne.)
+Jokainen projektiryhmä laatii lyhyen *viikkoraportin* joka viikko. Raportti pitää sisällään menneen viikon työtehtävät (karkealla tasolla) jäsenittäin ja niihin käytetyn työajan, sekä suunnitelman tulevan viikon työtehtävien jaosta ja ajoituksesta. Lisäksi viikkoraportissa on reflektio projektin kokonaiskehityksestä (aikataulu, laajuus, esiin tulleet haasteet, jne.) ja mahdolliset toimenpide-ehdotukset (rajaaminen, tehtävien tai roolien muuttaminen, jne.)
+
+Viikkoraportti laaditaan perjantaihin kello 15 mennessä. Raportti tehdään plain textina markdown-formaatissa ja se on *lyhyt ja ytimekäs*, noin 10 riviä. Anna nimeksi `viikko-vv-ryhmanNimi.md`, esimerkiksi `viikko-42-snowhound.md` ja laita se samaan yksityiseen tietovarastoon synopsiksen kanssa. 
 
 ## Osaamisaluetapaamiset
 
-*Osaamisaluetapaamisiin* kokoontuu säännöllisesti (viikoittain tai kahden viikon välein) tietyn osaamisalueen henkilöt *kaikista* ryhmistä. Esimerkiksi koodaajat kokoontuvat (ohjaajan kanssa), graafikot muiden graafikoiden kanssa ja niin edelleen. Myös tuottajat kokoontuvat muiden ryhmien tuottajien kanssa. Osaamisaluetapaamisten tarkoituksena on jakaa tietoa projekteista ja verkostoitua ryhmien välillä, mutta myös kertoa hyväksi havaituista käytänteistä ja toimintamalleista. 
+*Osaamisaluetapaamisiin* kokoontuu säännöllisesti (viikoittain tai kahden viikon välein) tietyn osaamisalueen henkilöt *kaikista* ryhmistä. Esimerkiksi koodaajat kokoontuvat koodaajien kanssa (yhdessä teknisen tai muun ohjaajan kanssa), graafikot muiden graafikoiden kanssa ja niin edelleen. Myös tuottajat kokoontuvat muiden ryhmien tuottajien kanssa. Osaamisaluetapaamisten tarkoituksena on jakaa tietoa projekteista ja verkostoitua ryhmien välillä, mutta myös kertoa hyväksi havaituista käytänteistä ja toimintamalleista. 
 
 ## Esittelytilaisuudet
 
