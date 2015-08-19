@@ -83,7 +83,7 @@ Prosessin jälkeen projektiin osallistuneet voivat hakea peli-idealle tai pelipr
 
 Peliprojektin onnistumisen kannalta on erittäin tärkeää että henkilöt puhaltavat yhteen hiileen ja ponnistelevat kohti yhteisesti sovittuja tavoitteita. Tiimien muodostamistapa vaihtelee hieman iteraatioiden (kevät/syksy) välillä, ja on myös osa niitä kokeiluja, joita hankkeessa on tarkoitus tehdä. Kuitenkin, JGL-henkilökunta auttaa tiimien muodostamisessa siten, että kussakin tiimissä olisi paras yhdistelmä osaamista, kokemusta ja mielenkiinnon kohteita.
 
-Hakemusten ja haastatteluiden perusteella JGL-tiimillä on alustava kuva ryhmistä ja osallistujien rooleista. Oman roolin tiedostaminen alkuvaiheessa on kuitenkin tärkeää, jotta ryhmä pääsee mahdollisimman nopeasti etenemään varsinaisessa työskentelyssä.
+Hakemusten ja haastatteluiden perusteella JGL-tiimillä on alustava kuva ryhmistä ja osallistujien rooleista. Oman roolin tiedostaminen ja kirjaaminen esimerkiksi projektin synopsikseen alkuvaiheessa on kuitenkin tärkeää, jotta ryhmä pääsee mahdollisimman nopeasti etenemään varsinaisessa työskentelyssä.
 
 ## Tuottajan valinta
 
@@ -97,8 +97,7 @@ Tuottaja on viime kädessä vastuussa ainakin seuraavista asioista.
  * Päätösten tekeminen. Peliprojekti on ennen muuta ryhmätyö, mutta tuottaja näyttää projektille suuntaa ja toimii tavallaan paimenena. Kun tuottaja saa jäsenet puhaltamaan yhteen hiileen, on hänellä myös mandaatti tehdä ryhmän johtajana myös vaikeitakin päätöksiä. 
  * Tehtävien jakaminen ja seuranta ("backlog"). Tuottaja huolehtii, että kullakin ryhmän jäsenellä on omaa osaamistaan vastaavaa tekemistä. Tehtävien toteutumista seurataan valitulla syklillä, joka voi riippua valitusta työskentelymetodologiasta, esimerkiksi Scrum, Kanban, XP, jne. 
  * Sisäinen viestintä. Ryhmän tehokkuus on usein yhtä kuin ryhmän jäsenten välisen kommunikaation toimivuus. Tuottaja varmistaa, että ryhmällä on tarvittavat tekniset edellytykset toimivaan viestintään, mutta ennen muuta huolehtii, että ryhmäläiset ymmärtävät toinen toisiaan ja ovat selvillä heihin kohdistuvista odotuksista. Tarvittaessa tuottaja selvittää ja sovittelee sisäisessä kommunikoinnissa esiintyviä haasteita.
- * Ulkoinen viestintä. 
- *
+ * Ulkoinen viestintä. Ryhmä voi halutessaan perustaa esimerkiksi Twitter- tai muita sosiaalisen median tilejä, joita tuottaja ylläpitää. Sosiaalinen media on hyvä väylä tiedottaa ulospäin projektin kulusta. Kirjoitushetkellä hankkeella ei ole omia verkkosivuja joihin ryhmät voisivat itse tuottaa sisältöä. Kukin ryhmä voi kuitenkin halutessaan osallistua hankkeen viestintään oma-aloitteisesti esimerkiksi JGL:n Facebook-sivulla tai Twitterissä. 
 
 ## Päätöksenteko ryhmässä
 
@@ -123,8 +122,9 @@ Synopsis laaditaan plain text -muodossa (esimerkiksi markdown) ja laitetaan GitH
 Lopullisten tiimien muodostamisen jälkeen jokainen ryhmä noudattaa JGL-viikkorutiineja, joihin kuuluvat seuraavat asiat:
 
  * Säännöllisten ohjaustapaamisten sopiminen kummiohjaajan kanssa
- * Viikkoraportin laatiminen
  * Osaamisaluetapaamisiin osallistuminen
+ * Viikkoraportin laatiminen
+ * Esittelytilaisuuksiin osallistuminen
 
 ## Ohjaustapaamiset
 
@@ -141,15 +141,15 @@ Yksi ryhmän jäsenistä toimii sihteerinä kirjaten läsnäolijat sekä yleislu
 
 Muistio tallennetaan Trelloon. Saattaa olla hyödyllistä luoda oma lista palaverimuistioille. Laita kortin nimeksi `vvvv-kk-pp-ohjaustapaaminen`, eli esimerkiksi `2015-08-17-ohjaustapaaminen`. 
 
+## Osaamisaluetapaamiset
+
+*Osaamisaluetapaamisiin* kokoontuu säännöllisesti (viikoittain tai kahden viikon välein) tietyn osaamisalueen henkilöt *kaikista* ryhmistä. Esimerkiksi koodaajat kokoontuvat koodaajien kanssa (yhdessä teknisen tai muun ohjaajan kanssa), graafikot muiden graafikoiden kanssa ja niin edelleen. Myös tuottajat kokoontuvat muiden ryhmien tuottajien kanssa. Osaamisaluetapaamisten tarkoituksena on jakaa tietoa projekteista ja verkostoitua ryhmien välillä, mutta myös kertoa hyväksi havaituista käytänteistä ja toimintamalleista. 
+
 ## Viikkoraportit
 
 Jokainen projektiryhmä laatii lyhyen *viikkoraportin* joka viikko. Raportti pitää sisällään menneen viikon työtehtävät (karkealla tasolla) jäsenittäin ja niihin käytetyn työajan, sekä suunnitelman tulevan viikon työtehtävien jaosta ja ajoituksesta. Lisäksi viikkoraportissa on reflektio projektin kokonaiskehityksestä (aikataulu, laajuus, esiin tulleet haasteet, jne.) ja mahdolliset toimenpide-ehdotukset (rajaaminen, tehtävien tai roolien muuttaminen, jne.)
 
 Viikkoraportti laaditaan perjantaihin kello 15 mennessä. Raportti tehdään plain textina markdown-formaatissa ja se on *lyhyt ja ytimekäs*, noin 10 riviä. Anna nimeksi `viikko-vv-ryhmanNimi.md`, esimerkiksi `viikko-42-snowhound.md` ja laita se samaan yksityiseen tietovarastoon synopsiksen kanssa. 
-
-## Osaamisaluetapaamiset
-
-*Osaamisaluetapaamisiin* kokoontuu säännöllisesti (viikoittain tai kahden viikon välein) tietyn osaamisalueen henkilöt *kaikista* ryhmistä. Esimerkiksi koodaajat kokoontuvat koodaajien kanssa (yhdessä teknisen tai muun ohjaajan kanssa), graafikot muiden graafikoiden kanssa ja niin edelleen. Myös tuottajat kokoontuvat muiden ryhmien tuottajien kanssa. Osaamisaluetapaamisten tarkoituksena on jakaa tietoa projekteista ja verkostoitua ryhmien välillä, mutta myös kertoa hyväksi havaituista käytänteistä ja toimintamalleista. 
 
 ## Esittelytilaisuudet
 
@@ -215,11 +215,11 @@ Mekaaninen avain ja sähköinen kulkulupa lunastetaan Jyväskylän yliopiston av
 
 ## IT-infra
 
-Labralla on käytössä 24 pöytätietokonetta sekä muutama läppäri. Nämä koneet ovat labralaisten käytettävissä. Neljä PAJA-nimistä konetta (Fujitsu-merkkisiä) on kytketty langalliseen yliopiston verkkoon, ja ohjelmia niihin voi asentaa ainoastaan IT-palveluiden lähituki. Loput 20 konetta (DELL-merkkisiä) ovat hyvin vapaasti labralaisten käytettävissä. Niihin voi asentaa haluamansa käyttöjärjestelmän. Labralla on Windows 7 ja 8.1 asennuslevyt, mutta koneisiin voi omatoimisesti asentaa muitakin käyttöjärjestelmiä. Koneet tyhjennetään projektijakson päätteeksi.
+Labralla on käytössä 24 pöytätietokonetta sekä muutama läppäri. Nämä koneet ovat labralaisten käytettävissä. Neljä PAJA-nimistä konetta (Fujitsu-merkkisiä) on kytketty langalliseen yliopiston verkkoon ("`jyunet`"), ja ohjelmia niihin voi asentaa ainoastaan IT-palveluiden lähituki. Loput 20 konetta (DELL-merkkisiä) ovat hyvin vapaasti labralaisten käytettävissä ja ne on kytketty ns. langalliseen labraverkkoon. Niihin on valmiiksi asennettu Windows 8.1, mutta ryhmä voi omatoimisesti asentaa niihin haluamansa käyttöjärjestelmän. Koneet tyhjennetään projektijakson päätteeksi. 
 
-Langaton verkko `jyu-staff` toimii IT-palveluilta saaduilla käyttäjätiedoilla. Tästä langattomasta verkosta on pääsy myös yliopiston sisäisiin palveluihin, kuten kirjastolle ja vaikkapa MOT-sanakirjaan. 
+Omia läppäreitä varten on langaton verkko `jyu-staff`, joka toimii IT-palveluilta saaduilla käyttäjätiedoilla. Tästä langattomasta verkosta on pääsy myös yliopiston sisäisiin palveluihin, kuten kirjastolle ja vaikkapa MOT-sanakirjaan. 
 
-Lisäksi labralle on tätä kirjoitettaessa (elokuu 2015) tulossa labraverkon oma wlan, josta ei ole pääsyä yliopiston palveluihin, mutta jonka avulla pääsee kuitenkin internetiin. Tämä langaton verkko on tarkoitettu projektin aikana tehtäviin "kokeiluihin", ja jos esimerkiksi pelisi vaatii palvelimen käyttöä, johon sitten pelaajat ottavat yhteyden, asenna palvelin labraverkon puolelle. Huomaa, että yliopiston sisäiseen verkkoon (langaton `jyu-staff` tai langallinen ethernet-verkko) *ei* palvelimia saa asentaa. Palveluita seurataan automaattisesti ja luvattomien palveluiden asentamisesta seuraa käyttökielto.
+Lisäksi labralle on tätä kirjoitettaessa (elokuu 2015) tulossa labraverkon oma wlan, josta ei ole pääsyä yliopiston palveluihin, mutta jonka avulla pääsee kuitenkin internetiin. Tämä langaton verkko on tarkoitettu projektin aikana tehtäviin "kokeiluihin", ja jos esimerkiksi pelisi vaatii palvelimen käyttöä, johon sitten pelaajat ottavat yhteyden, asenna palvelin labraverkon puolelle. Huomaa, että yliopiston sisäiseen verkkoon (langaton `jyu-staff` tai langallinen `jyunet`-verkko) *ei* palvelimia saa asentaa. Verkon käyttöä seurataan automaattisesti ja luvattomien palveluiden asentamisesta seuraa käyttökielto.
 
 Jokainen huolehtii täsmällisesti omasta ja tiiminsä tietoturvasta. Yliopiston salasanoja ja käyttäjätunnuksia ei jaeta muille ryhmän jäsenille.
 
@@ -228,8 +228,6 @@ Jokainen huolehtii täsmällisesti omasta ja tiiminsä tietoturvasta. Yliopiston
 Juomatehtaalla on käytössä ryhmätilojen lisäksi kahvihuone. Osallistujat tuovat itse kahvin ja maidon sekä suodatinpaperit. Kahvihuoneessa on lista johon voi merkitä kun on tuonut kahvia tai maitoa. Toimitaan solidaarisesti ja käyttäydytään reilusti kaikkia kahvin juojia kohtaan. Pese kahvipannu perusteellisesti käytön jälkeen ja kaada vettä keittimeen vain ja ainoastaan puhtaalla astialla. Älä myöskään jätä likaisia mukeja tiskipöydille. 
 
 Kahvihuoneessa on vierailijoita varten varattuna pahvisia mukeja.
-
-... Kahvihuone, wc, käytävät, seinät
 
 # Työkalut ja niiden hyödyntäminen
 
