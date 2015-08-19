@@ -227,7 +227,7 @@ Jokainen huolehtii täsmällisesti omasta ja tiiminsä tietoturvasta. Yliopiston
 
 Juomatehtaalla on käytössä ryhmätilojen lisäksi kahvihuone. Osallistujat tuovat itse kahvin ja maidon sekä suodatinpaperit. Kahvihuoneessa on lista johon voi merkitä kun on tuonut kahvia tai maitoa. Toimitaan solidaarisesti ja käyttäydytään reilusti kaikkia kahvin juojia kohtaan. Pese kahvipannu perusteellisesti käytön jälkeen ja kaada vettä keittimeen vain ja ainoastaan puhtaalla astialla. Älä myöskään jätä likaisia mukeja tiskipöydille. 
 
-Kahvihuoneessa on vierailijoita varten varattuna pahvisia mukeja.
+Kahvihuoneessa on *vierailijoita* varten varattuna pahvisia mukeja.
 
 # Työkalut ja niiden hyödyntäminen
 
