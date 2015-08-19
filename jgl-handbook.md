@@ -45,15 +45,37 @@ Kaikki JGL-tapahtumat (luennot, "gatet", milestonet, esittelytilaisuudet, lopetu
 
 ## Kunkin vaiheen alkamiseen ja päättymiseen liittyvät toimet
 
-## Labin päättyminen
+## Projektin päättyminen
+
+JGL-jakso päättyy noin viiden kuukauden jälkeen. Projektin päättymiseen liittyy muutamia tärkeitä toimenpiteitä, joista jokaisen on oltava tietoinen. 
+
+Jokainen *esittelee oman pelituotoksensa* . Aikaa per ryhmä on 20 minuuttia + 10 minuutin keskustelu. Esitys sisältää seuraavat asiat:
+
+  * Ryhmän esittely: nimet, roolit, vastuut
+  * Taustaa: pelin idea tai taustatarina, kohdealustat, kohdeyleisö jne.
+  * Pelin esittely: esittele tärkeimmät toiminnot ja ominaisuudet.
+  * Katsaus projektiin: mitä suunniteltiin, miten suunnitelma muuttui, mitä meni hyvin ja mitä haasteita oli
+
+*Loppupalaute*. Jokainen antaa loppupalautteen viimeisten päivien aikana, kuitenkin ennen lopetustilaisuutta. Loppupalautteen perusteella kehitetään JGL-hankkeen sisältöä. http://goo.gl/forms/fww6AX27jT
+
+*ESR-lopetuslomake*. Jokainen täyttää ESR-lopetuslomakkeen heti oman pelinsä esittelemisen jälkeen. Jos joudut lähtemään aikaisemmin pois tai et pääse paikalle, ilmoita siitä etukäteen henkilökunnalle niin toimitamme sinulle lomakkeen ja palautuskuoren. Todistuksen osallistumisesta JGL:ään saa lopetuslomakkeen palauttamisen jälkeen.
+
+*Videokaappaus pelistäsi*. Nauhoita muutaman minuutin mittainen videokaappaus pelisi mielenkiintoisista kohdista äänien kanssa full hd:na tai muuten mahdollisimman hyvälaatuisena. Maksuton kaappausohjelma windowsille on ainakin MS Expression Encoder. Voimme ottaa vastaan Encoderin tuottamat XESC-tiedostot. Toimita video viimeistään ennen esittelytilaisuutta ja ilmoita Antti-Jussille tai Jonnelle kun video on valmis niin voimme siirtää sen muistitikulle.
+
+*Peli hankkeen käyttöön (valinnainen)*. Otamme erittäin mielellämme vastaan pelistänne toimivat buildit, jotta voimme esimerkiksi esitellä tuotoksianne erilaisissa tilaisuuksissa, samalla toki mainostaen teitä pelien tekijöinä ja asiantuntijoina. Voit toimittaa buildin esittelytilaisuudessa. Hanke ei omista osallistujien pelejä, eikä pelin antaminen hankkeen (esittely-)käyttöön poista alkuperäisiltä tekijöiltä mitään oikeuksia. Hankkeen projektipäällikkö antaa tästä tarvittaessa lisätietoja. 
+
+*Avainten palautus*. Mekaaniset avaimet ja kulkuluvat palautetaan yliopiston
+avaintenhallintaan (MaD-rakennus) ilmoitettuna ajankohtana.
+
+*Huoneiden tyhjennys*. Projektihuoneet pitää olla tyhjennettynä omista tavaroista esittelytilaisuuden jälkeen. Myös jos sinulla on muissa tiloissa omaa tavaraa tai elintarvikkeita, ne pitää poistaa.
+
+## Mitä labin jälkeen
 
 Niin kuin kaikki hyvät asiat, myös JGL loppuu joskus. Viisi kuukautta on lopulta lyhyt aika, ja niinpä labin päättymiseen on myös hyvä varautua. Mikäli opintosi ovat kesken, ota hyvissä ajoin ennen viiden kuukauden jakson päättymistä opinto-opas kouraan, ja suunnittele tulevan lukukauden opintosi. Ota myös tarvittaessa yhteyttä opinto-ohjaajaasi - siitäkin huolimatta, että pelin tekemisen kiihkeimmät hetket saattavat ajoittua juuri lab-jakson loppupuolelle. 
 
 Erityisesti mikäli tiedät, että sinulle on muodostunut lab-jakson aikana sellaista uutta tietoa josta tarvitset niin sanotun AHOT-menettelyn mukaisen tunnustuksen, ota asia hyvissä ajoin puheeksi JGL:n henkilökunnan ja opinto-ohjaajasi kanssa.
 
 Mikäli olet työtön, rohkaisemme sinua tarkistamaan työpaikkailmoituksia ja lähettämään työhakemuksia viimeistään kuukautta ennen labin päättymistä. 
-
-## Mitä labin jälkeen
 
 Prosessin jälkeen projektiin osallistuneet voivat hakea peli-idealle tai peliprotolleen jatkotyöskentely- tai rahoitusmahdollisuuksia useasta yrityshautomosta Jyväskylän alueella. Esimerkiksi JGL:n naapurissa toimiva Jyväskylän Yritystehdas on erinomainen resurssi aloittelevalle yrittäjälle. Pyrimme järjestämään säännöllisiä vierailuja Yritystehtaalla lab-jakson aikana. Huomaa, että Jyväskylä Game Lab ei tarjoa projekteille jatkorahoitusmahdollisuutta, vaan rahoitusta on haettava muista lähteistä. 
 
@@ -106,7 +128,7 @@ Lopullisten tiimien muodostamisen jälkeen jokainen ryhmä noudattaa JGL-viikkor
 
 ## Ohjaustapaamiset
 
-*Säännölliset ohjaustapaamiset* ovat viikottaisia tai enintään kahden viikon välein olevia kokoontumisia, jossa on mukana koko projektitiimi sekä kummiohjaaja. Ryhmä on itse aktiivinen oman kummiohjaajan suuntaan ja sopii ohjausajankohdan. Viime kädessä tuottaja vastaa ajan sopimisesta, ja mikäli kasvokkain tapaaminen ei onnistu niin sopii tarvittaessa Skype- tai sähköpostipalaverin. 
+*Säännölliset ohjaustapaamiset* ovat viikottaisia tai enintään kahden viikon välein olevia kokoontumisia, jossa on mukana koko projektitiimi sekä kummiohjaaja. Ryhmä on itse aktiivinen oman kummiohjaajan suuntaan ja sopii ohjausajankohdan heti lopullisten ryhmien muodostamisen jälkeen. Viime kädessä tuottaja vastaa ajan sopimisesta, ja mikäli kasvokkain tapaaminen ei onnistu niin sopii tarvittaessa Skype- tai sähköpostipalaverin, mutta ensisijaisesti pyritään olemaan fyysisesti samassa tilassa. 
 
 Ryhmä esittää ilman eri pyyntöä tapaamisessa ainakin seuraavat asiat.
 
