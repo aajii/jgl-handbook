@@ -9,7 +9,7 @@ Ensimmäisenä päivänä (tai jopa ennen aloitusta) jaettava tietopaketti, joka
 
 Onnittelut! Juuri sinä olet valikoitunut suuresta hakijajoukosta *Jyväskylä Game Lab*-pelikehityskeskuksen (JGL) osallistujaksi. JGL on vuosina 2015--2016 Jyväskylässä toteutettava hanke, jossa kokeillaan uusia opetus- ja opiskelumalleja pelien kehittäjien tueksi. Toimintaa keskittyy Juomatehtaan 2. kerrokseen, joka sijaitsee Seminaarinmäellä, Vapaudenkadulla. 
 
-Saat tulevien kuukausien aikana käyttöösi käyttöönsä modernit työtilat, ammattitaitoisen ohjauksen sekä sparraustiimin joka koostuu kansallisista ja kansainvälisistä pelialan huippuosaajista. 
+Saat tulevien kuukausien aikana käyttöösi modernit työtilat, ammattitaitoisen ohjauksen sekä sparraustiimin joka koostuu kansallisista ja kansainvälisistä pelialan huippuosaajista. 
 
 Ensimmäiset peliprojektit aloittivat toimintansa maaliskuussa 2015, ja tiimit esittelivät lopputuotteitaan elokuussa, viiden kuukauden työskentelyn jälkeen. Ryhmiin saatiin hieno kattaus niin kokemusta aikaisemmista peliprojekteista kuin rehellisiä "keltanokkia", ja kaikki he pääsivät oppimaan uusia asioita. Ensimmäisten ryhmien kokemuksia pääset varmasti kuulemaan lisää seuraavien viikkojen aikana, ja toivomme että nämä kokemukset voivat olla inspiroimassa myös sinua pelisi rakentamisen varrella.
 
@@ -33,12 +33,67 @@ Voi sanoa, että koko peliala seisoo tai kaatuu ryhmätyötaitojen mukana. Ryhm�
 
 Kukaan osallistujista hankkeen puitteissa ei ole juridisesti vastuussa tekemisistään toisilleen, eikä kukaan ole varsinaisesti toisen esimies siitä näkökulmasta kuten työelämässä asia ymmärretään. Niinpä JGL on ennen muuta *mahdollisuus* jokaiselle osallistujalle kokeilla, näyttää osaamistaan niin omalla substanssiosaamisen alueellaan kuin ryhmätyöskentelyssä. Kuitenkin, kuten "oikeissa töissä", myös JGL:ssä tuottajan rooli on projektipäällikön rooli jonka merkitys projektin onnistumiselle on suuri. Vaikka virallisesti kukaan ei JGL-projekteissa toisen esimies olekaan, tulee ryhmän kunnioittaa roolijakoa ja sen mukanaan tuomia vastuita. 
 
+On hyvä muistaa, että suurin osa JGL-jaksolla työskentelystä on omatoimista ja itsenäistä, eikä ennalta määriteltyjä aikatauluja projektin tekemiselle juurikaan ole, poislukien tietyt rutiinit, kuten esimerkiksi ohjaustapaamiset ja viikkoraportoinnit (ks. *Rutiinit ja tapaamiset*).
+
 On myös erittäin hyödyllistä tutustua muihin tiimeihin ja verkostoitua heidän kanssaan JGL-jakson aikana. Myös tämä verkostoituminen on osa tiimityöskentelyä ja antaa tukea myös oman peliprojektin kehittämiselle. 
 
 ## Monialaisuus
 
-Monitieteisten ja –taitoisten ryhmien 
-Oman substanssiosaamisen mahdollisuuksien hyödyntäminen kokonaisuudessa
+JGL-henkilökunta pyrkii varmistamaan sen, että ryhmistä saadaan mahdollisimman *monitieteisiä ja –taitoisia*. Jokaisella ryhmän jäsenellä on oma substanssiosaamisen alue tai alueita, ja nämä eri osaamiset muodostavat kokonaisuuden. Ei ole järkeä muodostaa ryhmää, joka koostuu pelkästään graafikoista, tai pelkästään koodareista. 
+
+# Labiin rekisteröityminen
+
+## IT-palvelujen käyttölupahakemus
+
+Jotta osallistuja pääsee käsiksi yliopiston tietoverkon palveluihin (esimerkiksi Korppi, YouSource, jne.) on täytettävä IT-palvelujen käyttölupahakemus (https://www.jyu.fi/itp/lomakkeet/kayttolupahak). Mikäli et ole Jyväskylän yliopiston opiskelija, kirjoita "Asema Jyväskylän yliopistossa"-kohtaan "Osallistuja Jyväskylä Game Labissa". Valitse "Peruspalvelut", ja jos lomake pakottaa vlitsemaan kohdan "Muu", valitse "Peruspalvelut" kuitenkin kynällä. Kohtaan "Työsuhteen päättymispäivä" voit laittaa 28.2.2016, joka tarkoittaa tässä tapauksessa käyttäjätunnuksen aktiivisena olemisen loppumispäivää. 
+
+Tulosta ja täytä käyttölupahakemus heti tämän viestin saatuasi, mielellään noin pari viikkoa ennen Game Labin alkua. Toimita valmis hakemus joko Antti-Jussi Lakaselle (Agora, Ag C414.2) tai Hanna Hauvalalle (JAMK Rajakatu). Voit myös skannata allekirjoitetun hakemuksen ja lähettää sen osoitteeseen `jklgamelab@gmail.com`. Ilman käyttölupahakemusta ei osallistujalle voida toimittaa esimerkiksi projektitilojen avaimia eikä osallistuja pääse kirjautumaan yliopiston tietoverkon palveluihin. Käyttäjätunnus ja salasana toimitetaan sinulle kotiin kirjepostina.
+
+Jyväskylän yliopistossa läsnäolevan opiskelijan ei tarvitse täyttää käyttölupahakemusta.
+
+## Korppi
+
+*Korppi*-järjestelmä on Jyväskylän yliopiston kurssi- ja opintotietojärjestelmä. Korpin avulla ylläpidetään muun muassa Game Labin osallistuja- ja sähköpostilistoja. Kun olet saanut Jyunet-tunnukset postissa kotiisi, kirjaudu niillä Korppiin ja rekisteröidy Game Lab-"kurssille" https://korppi.jyu.fi/kotka/r.jsp?course=180330. Kun olet ilmoittautunut kursille, ilmoittaudu myös kurssin sisällä olevaan *Syksy 2015*-ryhmään.
+
+Ryhmäilmoittautumisen seurauksena sinut liitetään automaattisesti sähköpostilistalle, jonka avulla tiedotetaan osallistujille muun muassa Game Labin tapahtumista. Vaihda vielä sähköpostiosoitteesi Korpissa kohdasta Henkilötiedot -> Muuta tietojasi -> Muut tiedot -> Email. Laita kenttään sellainen osoite jota todella käytät ja luet.
+
+## Flowdock
+
+*Flowdock* on pikaviestijärjestelmä, jota käytetään JGL:ssä sisäiseen pikaviestintään. Pyydä henkilökunnalta rekisteröitymislinkki sinun osallistujaryhmäsi "flowiin".
+
+## wiki
+
+
+
+## ESR-lomake
+
+Jokainen hankkeessa aloittanut osallistuja täyttää niin sanotun *ESR-aloituslomakkeen*. Tämä kuuluu hankkeen byrokratiaan. Vain hankkeen varsinaiset osallistujat täyttävät lomakkeen, eli esimerkiksi sparraajat tai ulkopuoliset kouluttajat eivät lomaketta täytä. Vastaavasti lopettaessaan hankkeeseen osallistumisen jokainen osallistuja täyttää *ESR-lopetuslomakkeen*. Jos esimerkiksi työllistyt hankkeen aikana kokopäiväisesti etkä voi jatkaa hankkeessa jakson loppuun, sinun täytyy erikseen pyytää että saat täyttää lopetuslomakkeen. Lopetuslomakkeen täyttäneet saavat todistuksen osallistumisestaan Jyväskylä Game Labiin.
+
+# Juomatehdas, tilat ja niissä toimiminen
+
+## Ryhmien omat huoneet
+
+Kukin ryhmä saa käyttöönsä yhden Juomatehtaan huoneista. Jotkin ryhmät mahdollisesti jakavat huoneen, mikäli osallistujia on paljon. Ovissa on mekaaninen lukko, ja jokaisella osallistujalla on (vain) omaan huoneeseensa sopiva mekaaninen avain. Lisäksi ulko-ovessa on sähköinen kulunvalvonta, joten jokainen avaimen käyttäjä rekisteröityy sähköiseen järjestelmään. On kuitenkin huomattava, että omia tavaroita säilytetään Juomatehtaalla omalla vastuulla. 
+
+## Kulkuluvat ja avaimet
+
+Mekaaninen avain ja sähköinen kulkulupa lunastetaan Jyväskylän yliopiston avaintenhallinnasta labramestarin ilmoittamana ajankohtana Mattilanniemen MaD-rakennuksesta. Mukaan tarvitaan henkilöllisyystodistus (ajokortti käy). Viiden kuukauden labrajakson jälkeen avaimet palautetaan niinikään avainten hallintaan. Palauttamattomista avaimista seuraa osallistujan laskuttaminen. 
+
+## IT-infra
+
+Labralla on käytössä 24 pöytätietokonetta sekä muutama läppäri. Nämä koneet ovat labralaisten käytettävissä. Neljä PAJA-nimistä konetta (Fujitsu-merkkisiä) on kytketty langalliseen yliopiston verkkoon ("`jyunet`"), ja ohjelmia niihin voi asentaa ainoastaan IT-palveluiden lähituki. Loput 20 konetta (DELL-merkkisiä) ovat hyvin vapaasti labralaisten käytettävissä ja ne on kytketty ns. langalliseen labraverkkoon. Niihin on valmiiksi asennettu Windows 8.1, mutta ryhmä voi omatoimisesti asentaa niihin haluamansa käyttöjärjestelmän. Koneet tyhjennetään projektijakson päätteeksi. 
+
+Omia läppäreitä varten on langaton verkko `jyu-staff`, joka toimii IT-palveluilta saaduilla käyttäjätiedoilla. Tästä langattomasta verkosta on pääsy myös yliopiston sisäisiin palveluihin, kuten kirjastolle ja vaikkapa MOT-sanakirjaan. 
+
+Lisäksi labralle on tätä kirjoitettaessa (elokuu 2015) tulossa labraverkon oma wlan, josta ei ole pääsyä yliopiston palveluihin, mutta jonka avulla pääsee kuitenkin internetiin. Tämä langaton verkko on tarkoitettu projektin aikana tehtäviin "kokeiluihin", ja jos esimerkiksi pelisi vaatii palvelimen käyttöä, johon sitten pelaajat ottavat yhteyden, asenna palvelin labraverkon puolelle. Huomaa, että yliopiston sisäiseen verkkoon (langaton `jyu-staff` tai langallinen `jyunet`-verkko) *ei* palvelimia saa asentaa. Verkon käyttöä seurataan automaattisesti ja luvattomien palveluiden asentamisesta seuraa käyttökielto.
+
+Jokainen huolehtii täsmällisesti omasta ja tiiminsä tietoturvasta. Yliopiston salasanoja ja käyttäjätunnuksia ei jaeta muille ryhmän jäsenille.
+
+## Yhteiset tilat
+
+Juomatehtaalla on käytössä ryhmätilojen lisäksi kahvihuone. Osallistujat tuovat itse kahvin ja maidon sekä suodatinpaperit. Kahvihuoneessa on lista johon voi merkitä kun on tuonut kahvia tai maitoa. Toimitaan solidaarisesti ja käyttäydytään reilusti kaikkia kahvin juojia kohtaan. Pese kahvipannu perusteellisesti käytön jälkeen ja kaada vettä keittimeen vain ja ainoastaan puhtaalla astialla. Älä myöskään jätä likaisia mukeja tiskipöydille. 
+
+Kahvihuoneessa on *vierailijoita* varten varattuna pahvisia mukeja.
 
 # JGL-polku
 
@@ -178,59 +233,7 @@ Yksi mahdollisuus on sopia, että peli kokonaisuudessaan (lähdekoodi, grafiikka
 
 Avointen lisenssien alaisuuteen sijoittamisessa on kuitenkin huomioitava pelissä mahdollisesti käytetyt ulkopuoliset kirjastot ja assetit. Näiden lisenssiehdot eivät välttämättä mahdollista sijoittamista toisen lisenssin alaisuuteen. Tämän takia onkin tärkeä heti peliprojektin alusta alkaen listata kaikki pelissä käytetyt ulkopuoliset kirjastot (ja muut), ja kuvata niiden lisenssiehdot lyhyesti.
 
-# Labiin rekisteröityminen
 
-## IT-palvelujen käyttölupahakemus
-
-Jotta osallistuja pääsee käsiksi yliopiston tietoverkon palveluihin (esimerkiksi Korppi, YouSource, jne.) on täytettävä IT-palvelujen käyttölupahakemus (https://www.jyu.fi/itp/lomakkeet/kayttolupahak). Mikäli et ole Jyväskylän yliopiston opiskelija, kirjoita "Asema Jyväskylän yliopistossa"-kohtaan "Osallistuja Jyväskylä Game Labissa". Valitse "Peruspalvelut", ja jos lomake pakottaa vlitsemaan kohdan "Muu", valitse "Peruspalvelut" kuitenkin kynällä. Kohtaan "Työsuhteen päättymispäivä" voit laittaa 28.2.2016, joka tarkoittaa tässä tapauksessa käyttäjätunnuksen aktiivisena olemisen loppumispäivää. 
-
-Tulosta ja täytä käyttölupahakemus heti tämän viestin saatuasi, mielellään noin pari viikkoa ennen Game Labin alkua. Toimita valmis hakemus joko Antti-Jussi Lakaselle (Agora, Ag C414.2) tai Hanna Hauvalalle (JAMK Rajakatu). Voit myös skannata allekirjoitetun hakemuksen ja lähettää sen osoitteeseen `jklgamelab@gmail.com`. Ilman käyttölupahakemusta ei osallistujalle voida toimittaa esimerkiksi projektitilojen avaimia eikä osallistuja pääse kirjautumaan yliopiston tietoverkon palveluihin. Käyttäjätunnus ja salasana toimitetaan sinulle kotiin kirjepostina.
-
-Jyväskylän yliopistossa läsnäolevan opiskelijan ei tarvitse täyttää käyttölupahakemusta.
-
-## Korppi
-
-*Korppi*-järjestelmä on Jyväskylän yliopiston kurssi- ja opintotietojärjestelmä. Korpin avulla ylläpidetään muun muassa Game Labin osallistuja- ja sähköpostilistoja. Kun olet saanut Jyunet-tunnukset postissa kotiisi, kirjaudu niillä Korppiin ja rekisteröidy Game Lab-"kurssille" https://korppi.jyu.fi/kotka/r.jsp?course=180330. Kun olet ilmoittautunut kursille, ilmoittaudu myös kurssin sisällä olevaan *Syksy 2015*-ryhmään.
-
-Ryhmäilmoittautumisen seurauksena sinut liitetään automaattisesti sähköpostilistalle, jonka avulla tiedotetaan osallistujille muun muassa Game Labin tapahtumista. Vaihda vielä sähköpostiosoitteesi Korpissa kohdasta Henkilötiedot -> Muuta tietojasi -> Muut tiedot -> Email. Laita kenttään sellainen osoite jota todella käytät ja luet.
-
-## Flowdock
-
-*Flowdock* on pikaviestijärjestelmä, jota käytetään JGL:ssä sisäiseen pikaviestintään. Pyydä henkilökunnalta rekisteröitymislinkki sinun osallistujaryhmäsi "flowiin".
-
-## wiki
-
-
-
-## ESR-lomake
-
-Jokainen hankkeessa aloittanut osallistuja täyttää niin sanotun *ESR-aloituslomakkeen*. Tämä kuuluu hankkeen byrokratiaan. Vain hankkeen varsinaiset osallistujat täyttävät lomakkeen, eli esimerkiksi sparraajat tai ulkopuoliset kouluttajat eivät lomaketta täytä. Vastaavasti lopettaessaan hankkeeseen osallistumisen jokainen osallistuja täyttää *ESR-lopetuslomakkeen*. Jos esimerkiksi työllistyt hankkeen aikana kokopäiväisesti etkä voi jatkaa hankkeessa jakson loppuun, sinun täytyy erikseen pyytää että saat täyttää lopetuslomakkeen. Lopetuslomakkeen täyttäneet saavat todistuksen osallistumisestaan Jyväskylä Game Labiin.
-
-# Juomatehdas, tilat ja niissä toimiminen
-
-## Ryhmien omat huoneet
-
-Kukin ryhmä saa käyttöönsä yhden Juomatehtaan huoneista. Jotkin ryhmät mahdollisesti jakavat huoneen, mikäli osallistujia on paljon. Ovissa on mekaaninen lukko, ja jokaisella osallistujalla on (vain) omaan huoneeseensa sopiva mekaaninen avain. Lisäksi ulko-ovessa on sähköinen kulunvalvonta, joten jokainen avaimen käyttäjä rekisteröityy sähköiseen järjestelmään. On kuitenkin huomattava, että omia tavaroita säilytetään Juomatehtaalla omalla vastuulla. 
-
-## Kulkuluvat ja avaimet
-
-Mekaaninen avain ja sähköinen kulkulupa lunastetaan Jyväskylän yliopiston avaintenhallinnasta labramestarin ilmoittamana ajankohtana Mattilanniemen MaD-rakennuksesta. Mukaan tarvitaan henkilöllisyystodistus (ajokortti käy). Viiden kuukauden labrajakson jälkeen avaimet palautetaan niinikään avainten hallintaan. Palauttamattomista avaimista seuraa osallistujan laskuttaminen. 
-
-## IT-infra
-
-Labralla on käytössä 24 pöytätietokonetta sekä muutama läppäri. Nämä koneet ovat labralaisten käytettävissä. Neljä PAJA-nimistä konetta (Fujitsu-merkkisiä) on kytketty langalliseen yliopiston verkkoon ("`jyunet`"), ja ohjelmia niihin voi asentaa ainoastaan IT-palveluiden lähituki. Loput 20 konetta (DELL-merkkisiä) ovat hyvin vapaasti labralaisten käytettävissä ja ne on kytketty ns. langalliseen labraverkkoon. Niihin on valmiiksi asennettu Windows 8.1, mutta ryhmä voi omatoimisesti asentaa niihin haluamansa käyttöjärjestelmän. Koneet tyhjennetään projektijakson päätteeksi. 
-
-Omia läppäreitä varten on langaton verkko `jyu-staff`, joka toimii IT-palveluilta saaduilla käyttäjätiedoilla. Tästä langattomasta verkosta on pääsy myös yliopiston sisäisiin palveluihin, kuten kirjastolle ja vaikkapa MOT-sanakirjaan. 
-
-Lisäksi labralle on tätä kirjoitettaessa (elokuu 2015) tulossa labraverkon oma wlan, josta ei ole pääsyä yliopiston palveluihin, mutta jonka avulla pääsee kuitenkin internetiin. Tämä langaton verkko on tarkoitettu projektin aikana tehtäviin "kokeiluihin", ja jos esimerkiksi pelisi vaatii palvelimen käyttöä, johon sitten pelaajat ottavat yhteyden, asenna palvelin labraverkon puolelle. Huomaa, että yliopiston sisäiseen verkkoon (langaton `jyu-staff` tai langallinen `jyunet`-verkko) *ei* palvelimia saa asentaa. Verkon käyttöä seurataan automaattisesti ja luvattomien palveluiden asentamisesta seuraa käyttökielto.
-
-Jokainen huolehtii täsmällisesti omasta ja tiiminsä tietoturvasta. Yliopiston salasanoja ja käyttäjätunnuksia ei jaeta muille ryhmän jäsenille.
-
-## Yhteiset tilat
-
-Juomatehtaalla on käytössä ryhmätilojen lisäksi kahvihuone. Osallistujat tuovat itse kahvin ja maidon sekä suodatinpaperit. Kahvihuoneessa on lista johon voi merkitä kun on tuonut kahvia tai maitoa. Toimitaan solidaarisesti ja käyttäydytään reilusti kaikkia kahvin juojia kohtaan. Pese kahvipannu perusteellisesti käytön jälkeen ja kaada vettä keittimeen vain ja ainoastaan puhtaalla astialla. Älä myöskään jätä likaisia mukeja tiskipöydille. 
-
-Kahvihuoneessa on *vierailijoita* varten varattuna pahvisia mukeja.
 
 # Työkalut ja niiden hyödyntäminen
 
