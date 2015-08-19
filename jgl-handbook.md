@@ -82,6 +82,20 @@ Tuottaja on viime kädessä vastuussa ainakin seuraavista asioista.
 
 ## Pulmatilainteiden ratkaisu
 
+# Suunnitteludokumentit
+
+Karsintavaiheiden jälkeen projektiryhmä kiinnittää oman aiheensa ja laatii pelikonseptin pohjalta *synopsiksen*. Synopsis on lyhennetty versio projektisuunnitelmasta, sisältää tekstiä ja enintään pari kuvaa, ja on pituudeltaan noin pari-kolme liuskaa (noin 1000--1500 sanaa), ja siinä otetaan kantaa seuraaviin asioihin.
+
+ * Kuvaus pelikonseptista enintään parilla virkkeellä
+ * Projektiryhmän jäsenet ja heidän yhteystiedot
+ * Projektin tehtävät ja/tai vastuualueet ja niihin kuluva työmäärä tunteina
+ * Tehtävien ja työmäärän jakautuminen ryhmän jäsenten välillä. Huomioi myös säännölliset ohjaus- ym. tapaamiset. Tämä on luonnollisesti arvio, joka tarkentuu tai muuttuu projektin kuluessa.
+ * Pelissä käytetyt teknologiat karkealla tasolla: kohdealustat, ohjelmointi- ja muut työympäristöt, tarvittavat (ja käytettävissä olevat) laitteistot ja ohjelmistot
+ * GANTT-kaavio (lista päivämääristä käy myös ihan hyvin) projektin etenemisestä: mitä ominaisuuksia ja toiminnallisuuksia on valmiina mihinkin päivään mennessä.
+ * Riskianalyysi: riskien kartoittaminen, arviointi ja hallinta. 
+
+Synopsis laaditaan plain text -muodossa (esimerkiksi markdown) ja laitetaan GitHub-versiohallintaan mielellään julkiseen tietovarastoon (ohjeet GitHub-tietovaraston hankkimisesta tämän dokumentin lopussa), jotta kaikki JGL:n henkilökunnasta pääsevät tutkimaan suunnitteludokumenttia. 
+
 # Rutiinit ja tapaamiset
 
 Lopullisten tiimien muodostamisen jälkeen jokainen ryhmä noudattaa JGL-viikkorutiineja, joihin kuuluvat seuraavat asiat:
@@ -217,6 +231,8 @@ Käytämme JGL:ssä GitHubia versiohallintaan. Rekisteröidy ennen lab-jakson al
 Mikäli et ole opiskelija, voit kuitenkin rekisteröityä GitHubiin. Riittää, että yhdellä ryhmän jäsenellä on opiskelijakortti, jolloin koko tiimi voi käyttää kyseisen jäsenen hankkimaa yksityistä varastoa. Halutessanne ryhmä voi toki myös kehittää peliä julkisessa tietovarastossa, mutta siinä tapauksessa on tietysti kiinnitettävä erityisen tarkkaa huomiota tietoturvaan (ei salasanoja tms. lähdekoodissa). 
 
 Kun tiedät ryhmäsi lopullisen kokoonpanon, lisää kaikille ryhmäsi jäsenille sekä kummiohjaajalle pääsyoikeus (collaborator) varastoon.
+
+Suosittelemme, että peliprojekti laitetaan ainakin aluksi yksityiseen tietovarastoon, ja projektin valmistuessa tietovarasto voidaan tehdä julkiseksi. Suunnitteludokumentit (synopsis, ks. luku *Suunnitteludokumentit*) laitetaan julkiseen tietovarastoon, joten peliprojektia varten tarvitaan ainakin kaksi GitHub-tietovarastoa.
 
 ## Flowdock-integraatiot
 
