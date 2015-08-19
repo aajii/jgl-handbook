@@ -5,7 +5,7 @@ Ensimmäisenä päivänä (tai jopa ennen aloitusta) jaettava tietopaketti, joka
 
  > You have earned an achievement badge: BEGINNER. 
 
-![Badge](badges/badge.png "Beginner badge.")
+<!-- ![Badge](badges/badge.png "Beginner badge.") -->
 
 Onnittelut! Juuri sinä olet valikoitunut suuresta hakijajoukosta *Jyväskylä Game Lab*-pelikehityskeskuksen (JGL) osallistujaksi. JGL on vuosina 2015--2016 Jyväskylässä toteutettava hanke, jossa kokeillaan uusia opetus- ja opiskelumalleja pelien kehittäjien tueksi. Toimintaa keskittyy Juomatehtaan 2. kerrokseen, joka sijaitsee Seminaarinmäellä, Vapaudenkadulla. 
 
@@ -73,11 +73,13 @@ Jokainen hankkeessa aloittanut osallistuja täyttää niin sanotun *ESR-aloitusl
 
 ## Ryhmien omat huoneet
 
-Kukin ryhmä saa käyttöönsä yhden Juomatehtaan huoneista. Jotkin ryhmät mahdollisesti jakavat huoneen, mikäli osallistujia on paljon. Ovissa on mekaaninen lukko, ja jokaisella osallistujalla on (vain) omaan huoneeseensa sopiva mekaaninen avain. Lisäksi ulko-ovessa on sähköinen kulunvalvonta, joten jokainen avaimen käyttäjä rekisteröityy sähköiseen järjestelmään. On kuitenkin huomattava, että omia tavaroita säilytetään Juomatehtaalla omalla vastuulla. 
+Kukin ryhmä saa käyttöönsä yhden Juomatehtaan huoneista. Jotkin ryhmät mahdollisesti jakavat huoneen, mikäli osallistujia on paljon. Ovissa on mekaaninen lukko, ja jokaisella osallistujalla on (vain) omaan huoneeseensa sopiva mekaaninen avain. Lisäksi ulko-ovessa on sähköinen kulunvalvonta, joten jokainen avaimen käyttäjä rekisteröityy sähköiseen järjestelmään. On kuitenkin huomattava, että omia tavaroita säilytetään Juomatehtaalla omalla vastuulla.
 
 ## Kulkuluvat ja avaimet
 
-Mekaaninen avain ja sähköinen kulkulupa lunastetaan Jyväskylän yliopiston avaintenhallinnasta labramestarin ilmoittamana ajankohtana Mattilanniemen MaD-rakennuksesta. Mukaan tarvitaan henkilöllisyystodistus (ajokortti käy). Viiden kuukauden labrajakson jälkeen avaimet palautetaan niinikään avainten hallintaan. Palauttamattomista avaimista seuraa osallistujan laskuttaminen. 
+Mekaaninen avain ja sähköinen kulkulupa lunastetaan Jyväskylän yliopiston avaintenhallinnasta labramestarin ilmoittamana ajankohtana Mattilanniemen MaD-rakennuksesta. Sähköiset kulkuluvat jaetaan mahdollisimman pian JGL-jakson aloituksen jälkeen, ja mekaaniset avaimet lopullisten tiimien muodostamisen jälkeen. Ota avainten hakuun mukaan henkilöllisyystodistus (ajokortti käy). 
+
+Viiden kuukauden labrajakson jälkeen avaimet palautetaan niinikään avainten hallintaan. Palauttamattomista avaimista seuraa osallistujan laskuttaminen. 
 
 ## IT-infra
 
