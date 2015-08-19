@@ -5,7 +5,7 @@ Ensimmäisenä päivänä (tai jopa ennen aloitusta) jaettava tietopaketti, joka
 
  > You have earned an achievement badge: BEGINNER. 
 
-<!-- ![Badge](badges/badge.png "Beginner badge.") -->
+![Badge](badges/badge.png "Beginner badge.")
 
 Onnittelut! Juuri sinä olet valikoitunut suuresta hakijajoukosta *Jyväskylä Game Lab*-pelikehityskeskuksen (JGL) osallistujaksi. JGL on vuosina 2015--2016 Jyväskylässä toteutettava hanke, jossa kokeillaan uusia opetus- ja opiskelumalleja pelien kehittäjien tueksi. Toimintaa keskittyy Juomatehtaan 2. kerrokseen, joka sijaitsee Seminaarinmäellä, Vapaudenkadulla. 
 
@@ -207,7 +207,7 @@ Muistio tallennetaan Trelloon. Saattaa olla hyödyllistä luoda oma lista palave
 
 ## Viikkoraportit
 
-Jokainen projektiryhmä laatii lyhyen *viikkoraportin* joka viikko. Raportti pitää sisällään menneen viikon työtehtävät (karkealla tasolla) jäsenittäin ja niihin käytetyn työajan, sekä suunnitelman tulevan viikon työtehtävien jaosta ja ajoituksesta. Lisäksi viikkoraportissa on reflektio projektin kokonaiskehityksestä (aikataulu, laajuus, esiin tulleet haasteet, jne.) ja mahdolliset toimenpide-ehdotukset (rajaaminen, tehtävien tai roolien muuttaminen, jne.)
+Tuottaja laatii lyhyen *viikkoraportin* projektista joka viikko. Raportti pitää sisällään menneen viikon työtehtävät (karkealla tasolla) jäsenittäin ja niihin käytetyn työajan, sekä suunnitelman tulevan viikon työtehtävien jaosta ja ajoituksesta. Lisäksi viikkoraportissa on reflektio projektin kokonaiskehityksestä (aikataulu, laajuus, esiin tulleet haasteet, jne.) ja mahdolliset toimenpide-ehdotukset (rajaaminen, tehtävien tai roolien muuttaminen, jne.)
 
 Viikkoraportti laaditaan perjantaihin kello 15 mennessä. Raportti tehdään plain textina markdown-formaatissa ja se on *lyhyt ja ytimekäs*, noin 10 riviä. Anna nimeksi `viikko-vv-ryhmanNimi.md`, esimerkiksi `viikko-42-snowhound.md` ja laita se samaan yksityiseen tietovarastoon synopsiksen kanssa. 
 
@@ -216,6 +216,12 @@ Viikkoraportti laaditaan perjantaihin kello 15 mennessä. Raportti tehdään pla
 Ryhmät kokoontuvat säännöllisesti esittelemään tuotostaan ja kertomaan projektistaan. Tämä julkinen, tai JGL-projektien välinen, esiintyminen on tärkeä osa projektin etenemistä. Pelialalla on varsin tärkeää oppia kertomaan pelistä lyhyesti tai pitkästi ("pitchata") pyydettäessä. Mitä mielenkiintoisempi esityksesi on, sitä enemmän se luo kiinnostusta tuotteeseen ja voi siten saada esimerkiksi rahoittajat tai muut yhteistyökumppanit kiinnostumaan tuotteestasi. 
 
 JGL:ssä näitä esittelytilaisuuksia on ainakin *gatet* alussa (noin kaksi kappaletta), joissa valitaan parhaat ideat, sekä myöhemmin virstanpylväät (eng. *milestone*), joissa tiimit esittelevät puolivalmiita pelejä. Loppuesittelyssä jokainen tiimi esittelee valmiin tuotoksensa. Tähän tilaisuuteen on kaikilla vapaa pääsy.
+
+# Huomautus AHOT-menettelystä
+
+Hankkeessa ei anneta opintopisteitä. Mikäli hankkeen aikana syntyy opiskelijalle tutkinnon kannalta relevanttia uutta osaamista, on AHOT-menettely (Aikaisemmin hankitun osaamisen tunnistaminen ja tunnustaminen) toimiva tapa dokumentoida ja todentaa hankittu osaaminen korkeakoulussa. 
+
+Jos suunnittelet anovasi JGL-projektin aikana hankkimasi osaamisen tunnustamista AHOT-menettelyn avulla ota heti projektin alettua yhteyttä opinto-ohjaajaasi sekä sen opintojakson tentaattoriin joka mielestäsi vastaa JGL-projektin laajuutta. Huomaa että kurssien vaatimukset esimerkiksi suunnittelun tai dokumentoinnin osalta voivat poiketa huomattavastikin JGL-rutiineista, ja juuri tästä syystä asia on otettava esille mahdollisimman nopeasti.
 
 # Sparraus ja asiantuntijoiden hyödyntäminen
 
