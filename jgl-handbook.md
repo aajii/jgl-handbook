@@ -91,7 +91,7 @@ Karsintavaiheiden jälkeen projektiryhmä kiinnittää oman aiheensa ja laatii p
  * Projektin tehtävät ja/tai vastuualueet ja niihin kuluva työmäärä tunteina
  * Tehtävien ja työmäärän jakautuminen ryhmän jäsenten välillä. Huomioi myös säännölliset ohjaus- ym. tapaamiset. Tämä on luonnollisesti arvio, joka tarkentuu tai muuttuu projektin kuluessa.
  * Pelissä käytetyt teknologiat karkealla tasolla: kohdealustat, ohjelmointi- ja muut työympäristöt, tarvittavat (ja käytettävissä olevat) laitteistot ja ohjelmistot
- * GANTT-kaavio (lista päivämääristä käy myös ihan hyvin) projektin etenemisestä: mitä ominaisuuksia ja toiminnallisuuksia on valmiina mihinkin päivään mennessä.
+ * Julkistussuunnitelma (eng. *release plan*), joka voi olla esimerkiksi lista päivämääristä ja ominaisuuksista ja toiminnallisuuksista jotka ovat valmiina kyseiseen päivään mennessä. Kun projektin kesto on noin 5 kuukautta, lopussa on yksi "release" ja projektin aikana näitä on yleensä 2--4 kappaletta.
  * Riskianalyysi: riskien kartoittaminen, arviointi ja hallinta. 
 
 Synopsis laaditaan plain text -muodossa (esimerkiksi markdown) ja laitetaan GitHub-versiohallintaan mielellään julkiseen tietovarastoon (ohjeet GitHub-tietovaraston hankkimisesta tämän dokumentin lopussa), jotta kaikki JGL:n henkilökunnasta pääsevät tutkimaan suunnitteludokumenttia. 
