@@ -262,7 +262,7 @@ Lähtökohtaisesti kehityksessä käytetään maksuttomia kehitysohjelmistoja, k
 
 ## Versiohallinta
 
-Käytämme JGL:ssä GitHubia versiohallintaan. Rekisteröidy ennen lab-jakson alkua GitHubiin (http://github.com). Mikäli olet opiskelija, ota itsellesi myös GitHub Education Pack (https://education.github.com), jolla saat viisi yksityistä varastoa (repository) ilmaiseksi opiskeluiden ajaksi. Varmista, että olet todella saanut nämä ilmaiset yksityiset varastot ennen lab-jakson alkua.
+Käytämme JGL:ssä GitHubia versiohallintaan. Rekisteröidy ennen lab-jakson alkua GitHubiin (http://github.com). Mikäli olet opiskelija, ota itsellesi myös GitHub Education Pack (https://education.github.com/pack), jolla saat viisi yksityistä varastoa (repository) ilmaiseksi opiskeluiden ajaksi. Varmista, että olet todella saanut nämä ilmaiset yksityiset varastot ennen lab-jakson alkua.
 
 Mikäli et ole opiskelija, voit kuitenkin rekisteröityä GitHubiin. Riittää, että yhdellä ryhmän jäsenellä on opiskelijakortti, jolloin koko tiimi voi käyttää kyseisen jäsenen hankkimaa yksityistä varastoa. Halutessanne ryhmä voi toki myös kehittää peliä julkisessa tietovarastossa, mutta siinä tapauksessa on tietysti kiinnitettävä erityisen tarkkaa huomiota tietoturvaan (ei salasanoja tms. lähdekoodissa). 
 
