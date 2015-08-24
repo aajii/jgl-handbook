@@ -188,7 +188,7 @@ Lopullisten tiimien muodostamisen jälkeen jokainen ryhmä noudattaa JGL-viikkor
 
 ## Ohjaustapaamiset
 
-*Säännölliset ohjaustapaamiset* ovat viikottaisia tai enintään kahden viikon välein olevia kokoontumisia, jossa on mukana koko projektitiimi sekä kummiohjaaja. Ryhmä on itse aktiivinen oman kummiohjaajan suuntaan ja sopii ohjausajankohdan heti lopullisten ryhmien muodostamisen jälkeen. Viime kädessä tuottaja vastaa ajan sopimisesta, ja mikäli kasvokkain tapaaminen ei onnistu niin sopii tarvittaessa Skype- tai sähköpostipalaverin, mutta ensisijaisesti pyritään olemaan fyysisesti samassa tilassa. 
+*Säännölliset ohjaustapaamiset* ovat viikottaisia tai enintään kahden viikon välein olevia kokoontumisia, jossa on mukana koko projektitiimi sekä kummiohjaaja. Ryhmä on itse aktiivinen oman kummiohjaajan suuntaan ja sopii ohjausajankohdan heti lopullisten ryhmien muodostamisen jälkeen. Viime kädessä tuottaja vastaa ajan sopimisesta riittävän aikaisin että ajankohta käy kaikille. Mikäli kasvokkain tapaaminen ei onnistu niin sopii tarvittaessa Skype- tai sähköpostipalaverin, mutta ensisijaisesti pyritään olemaan fyysisesti samassa tilassa. Sovituista ajoista pidetään kiinni.
 
 Ryhmä esittää ilman eri pyyntöä tapaamisessa ainakin seuraavat asiat.
 
