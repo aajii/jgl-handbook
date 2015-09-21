@@ -221,6 +221,8 @@ Tuottaja laatii lyhyen *viikkoraportin* projektista joka viikko. Raportti pitä�
 
 Viikkoraportti laaditaan perjantaihin kello 15 mennessä. Raportti tehdään plain textina markdown-formaatissa ja se on *lyhyt ja ytimekäs*, noin 10 riviä. Anna nimeksi `viikko-vv-ryhmanNimi.md`, esimerkiksi `viikko-42-snowhound.md` ja laita se samaan yksityiseen tietovarastoon synopsiksen kanssa. 
 
+Viikkoraportti voi toimia pohjana ohjaustapaamiselle. Lisäksi se antaa JGL-projektin henkilökunnalle tärkeää tietoa ryhmien etenemisestä. 
+
 ## Esittelytilaisuudet
 
 Ryhmät kokoontuvat säännöllisesti esittelemään tuotostaan ja kertomaan projektistaan. Tämä julkinen, tai JGL-projektien välinen, esiintyminen on tärkeä osa projektin etenemistä. Pelialalla on varsin tärkeää oppia kertomaan pelistä lyhyesti tai pitkästi ("pitchata") pyydettäessä. Mitä mielenkiintoisempi esityksesi on, sitä enemmän se luo kiinnostusta tuotteeseen ja voi siten saada esimerkiksi rahoittajat tai muut yhteistyökumppanit kiinnostumaan tuotteestasi. 
