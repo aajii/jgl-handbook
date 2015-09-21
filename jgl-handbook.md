@@ -165,7 +165,7 @@ Ryhmät suunnittelevat itselleen visuaalisen ilmeen, joka sisältää logon, ty�
 
  * *Logo* laaditaan vektorimuodossa ja tallennetaan PDF-tiedostona. Logon on oltava vektorimuodossa jotta sitä voidaan käyttää missä tahansa koossa tarkkuuden kärsimättä. Tee logosta mielellään sekä 4-väri että mustavalkovariaatiot.
 
- * *Ryhmäposteri* sisältää kaikkien ryhmäläisten kuvat, nimet, roolit, sekä luonnollisesti myös ryhmän logon. Koko on A4. 
+ * *Ryhmäposteri* sisältää kaikkien ryhmäläisten kuvat, nimet, roolit, sekä luonnollisesti myös ryhmän logon. Koko on A4 ja se tulostetaan värillisenä kunkin ryhmän oman oven viereen.
 
  * *Peliposterin* formaatti on A2, neliväri, 1-puoleinen. Posteri sisältää Jukan posterimallissa mainitut asiat, ks. malli http://users.jyu.fi/~varsa/jgl/posteri.jpg. Peliposteri kiinnitetään ryhmän huoneen seinälle, ja sen avulla on helppo kertoa pelistä esimerkiksi vierailijoille.
 
