@@ -163,7 +163,7 @@ Tuottaja on viime kädessä vastuussa ainakin seuraavista asioista.
 
 Ryhmät suunnittelevat itselleen visuaalisen ilmeen, joka sisältää logon, työhuoneen oven viereen kiinnitettävän ryhmäposterin sekä peliposterin. 
 
- * *Logo* laaditaan PDF-muodossa. Tee logosta mielellään sekä 4-väri että mustavalkovariaatiot. 
+ * *Logo* laaditaan vektorimuodossa ja tallennetaan PDF-tiedostona. Logon on oltava vektorimuodossa jotta sitä voidaan käyttää missä tahansa koossa tarkkuuden kärsimättä. Tee logosta mielellään sekä 4-väri että mustavalkovariaatiot.
 
  * *Ryhmäposteri* sisältää kaikkien ryhmäläisten kuvat, nimet, roolit, sekä luonnollisesti myös ryhmän logon. Koko on A4. 
 
