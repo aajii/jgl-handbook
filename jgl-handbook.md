@@ -61,10 +61,6 @@ Ryhmäilmoittautumisen seurauksena sinut liitetään automaattisesti sähköpost
 
 *Flowdock* on pikaviestijärjestelmä, jota käytetään JGL:ssä sisäiseen pikaviestintään. Pyydä henkilökunnalta rekisteröitymislinkki sinun osallistujaryhmäsi "flowiin".
 
-## wiki
-
-
-
 ## ESR-lomake
 
 Jokainen hankkeessa aloittanut osallistuja täyttää niin sanotun *ESR-aloituslomakkeen*. Tämä kuuluu hankkeen byrokratiaan. Vain hankkeen varsinaiset osallistujat täyttävät lomakkeen, eli esimerkiksi sparraajat tai ulkopuoliset kouluttajat eivät lomaketta täytä. Vastaavasti lopettaessaan hankkeeseen osallistumisen jokainen osallistuja täyttää *ESR-lopetuslomakkeen*. Jos esimerkiksi työllistyt hankkeen aikana kokopäiväisesti etkä voi jatkaa hankkeessa jakson loppuun, sinun täytyy erikseen pyytää että saat täyttää lopetuslomakkeen. Lopetuslomakkeen täyttäneet saavat todistuksen osallistumisestaan Jyväskylä Game Labiin.
@@ -103,7 +99,11 @@ Kahvihuoneessa on *vierailijoita* varten varattuna pahvisia mukeja.
 
 Kaikki JGL-tapahtumat (luennot, "gatet", milestonet, esittelytilaisuudet, lopetus, jne.) löytyvät Google-kalenterista, joka löytyy hankkeen kotisivuilta: www.jklgamelab.fi. Voit myös tilata kyseisen kalenterin osaksi omaa Google-kalenteriasi jolloin saat synkronoitua tapahtumat esimerkiksi puhelimeesi. Klikkaa `+`-kuvaketta kalenterin oikeassa alareunassa, ja kirjaudu Google-tilillesi. 
 
-## Kunkin vaiheen alkamiseen ja päättymiseen liittyvät toimet
+Koska kyseessä on hanke, jossa tavoitteena on kokeilla ja selvittää erilaisten opetusmenetelmien toimivuutta, on JGL-polussa ja vaiheistuksessa hieman eroja eri sisäänottojen välillä. 
+
+## Tiimien muodostaminen
+
+Tiimien muodostamisesta.
 
 ## Projektin päättyminen
 
@@ -139,7 +139,7 @@ Mikäli olet työtön, rohkaisemme sinua tarkistamaan työpaikkailmoituksia ja l
 
 Prosessin jälkeen projektiin osallistuneet voivat hakea peli-idealle tai peliprotolleen jatkotyöskentely- tai rahoitusmahdollisuuksia useasta yrityshautomosta Jyväskylän alueella. Esimerkiksi JGL:n naapurissa toimiva Jyväskylän Yritystehdas on erinomainen resurssi aloittelevalle yrittäjälle. Pyrimme järjestämään säännöllisiä vierailuja Yritystehtaalla lab-jakson aikana. Huomaa, että Jyväskylä Game Lab ei tarjoa projekteille jatkorahoitusmahdollisuutta, vaan rahoitusta on haettava muista lähteistä. 
 
-# Ryhmätyöskentely ja oma rooli
+# Labissa työskentely
 
 Peliprojektin onnistumisen kannalta on erittäin tärkeää että henkilöt puhaltavat yhteen hiileen ja ponnistelevat kohti yhteisesti sovittuja tavoitteita. Tiimien muodostamistapa vaihtelee hieman iteraatioiden (kevät/syksy) välillä, ja on myös osa niitä kokeiluja, joita hankkeessa on tarkoitus tehdä. Kuitenkin, JGL-henkilökunta auttaa tiimien muodostamisessa siten, että kussakin tiimissä olisi paras yhdistelmä osaamista, kokemusta ja mielenkiinnon kohteita.
 
@@ -159,7 +159,15 @@ Tuottaja on viime kädessä vastuussa ainakin seuraavista asioista.
  * Sisäinen viestintä. Ryhmän tehokkuus on usein yhtä kuin ryhmän jäsenten välisen kommunikaation toimivuus. Tuottaja varmistaa, että ryhmällä on tarvittavat tekniset edellytykset toimivaan viestintään, mutta ennen muuta huolehtii, että ryhmäläiset ymmärtävät toinen toisiaan ja ovat selvillä heihin kohdistuvista odotuksista. Tarvittaessa tuottaja selvittää ja sovittelee sisäisessä kommunikoinnissa esiintyviä haasteita.
  * Ulkoinen viestintä. Ryhmä voi halutessaan perustaa esimerkiksi Twitter- tai muita sosiaalisen median tilejä, joita tuottaja ylläpitää. Sosiaalinen media on hyvä väylä tiedottaa ulospäin projektin kulusta. Kirjoitushetkellä hankkeella ei ole omia verkkosivuja joihin ryhmät voisivat itse tuottaa sisältöä. Kukin ryhmä voi kuitenkin halutessaan osallistua hankkeen viestintään oma-aloitteisesti esimerkiksi JGL:n Facebook-sivulla tai Twitterissä. 
 
-## Päätöksenteko ryhmässä
+## Ryhmän visuaalinen ilme
+
+Ryhmät suunnittelevat itselleen visuaalisen ilmeen, joka sisältää logon, työhuoneen oven viereen kiinnitettävän ryhmäposterin sekä peliposterin. 
+
+ * *Logo* laaditaan PDF-muodossa. Tee logosta mielellään sekä 4-väri että mustavalkovariaatiot. 
+
+ * *Ryhmäposteri* sisältää kaikkien ryhmäläisten kuvat, nimet, roolit, sekä luonnollisesti myös ryhmän logon. Koko on A4. 
+
+ * *Peliposterin* formaatti on A2, neliväri, 1-puoleinen. Posteri sisältää Jukan posterimallissa mainitut asiat, ks. malli http://users.jyu.fi/~varsa/jgl/posteri.jpg. Peliposteri kiinnitetään ryhmän huoneen seinälle, ja sen avulla on helppo kertoa pelistä esimerkiksi vierailijoille.
 
 ## Pulmatilainteiden ratkaisu
 
