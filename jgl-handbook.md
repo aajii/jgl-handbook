@@ -209,7 +209,7 @@ Ryhmä esittää ilman eri pyyntöä tapaamisessa ainakin seuraavat asiat.
 
 Yksi ryhmän jäsenistä toimii sihteerinä kirjaten läsnäolijat sekä yleisluontoisesti palaverissa käsitellyt asiat ja tehdyt päätökset. Sihteeri valitaan ennen ohjaustapaamista. Muistion perusteella myös myös ne jäsenet ketkä eivät päässeet paikalle tapaamiseen saavat käsityksen palaverissa käsitellyistä ja sovituista asioista. Muistiota voi hyödyntää myös projektiraportin osana projektin päättyessä. 
 
-Muistio tallennetaan Trelloon. Saattaa olla hyödyllistä luoda oma lista palaverimuistioille. Laita kortin nimeksi `vvvv-kk-pp-ohjaustapaaminen`, eli esimerkiksi `2015-08-17-ohjaustapaaminen`. 
+Muistio laaditaan plain text -formaatissa (esimerkiksi Markdown) ja tallennetaan Githubiin yksityiseen tietovarastoon. Laita muistion nimeksi `vvvv-kk-pp-ohjaustapaaminen.md`, eli esimerkiksi `2015-08-17-ohjaustapaaminen.md`.
 
 ## Osaamisaluetapaamiset
 
