@@ -75,6 +75,8 @@ Kukin ryhmä saa käyttöönsä yhden Juomatehtaan huoneista. Jotkin ryhmät mah
 
 Mekaaninen avain ja sähköinen kulkulupa lunastetaan Jyväskylän yliopiston avaintenhallinnasta labramestarin ilmoittamana ajankohtana Mattilanniemen MaD-rakennuksesta. Sähköiset kulkuluvat jaetaan mahdollisimman pian JGL-jakson aloituksen jälkeen, ja mekaaniset avaimet lopullisten tiimien muodostamisen jälkeen. Ota avainten hakuun mukaan henkilöllisyystodistus (ajokortti käy). 
 
+Mikäli sinulla on jo yliopiston sähköinen avain, niin mainitse siitä, jotta kulkuoikeus Juomatehtaalle voidaan lisätä jo olemassaolevaan avaimeen.
+
 Viiden kuukauden labrajakson jälkeen avaimet palautetaan niinikään avainten hallintaan. Palauttamattomista avaimista seuraa osallistujan laskuttaminen. 
 
 ## IT-infra
