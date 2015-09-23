@@ -171,7 +171,7 @@ Ryhmät suunnittelevat itselleen visuaalisen ilmeen, joka sisältää logon, ty�
 
  * *Peliposterin* formaatti on A2, neliväri, 1-puoleinen. Posteri sisältää Jukan posterimallissa mainitut asiat, ks. malli http://users.jyu.fi/~varsa/jgl/posteri.jpg. Peliposteri kiinnitetään ryhmän huoneen seinälle, ja sen avulla on helppo kertoa pelistä esimerkiksi vierailijoille.
 
-Kaikki tiedostot tallennetaan GitHubiin, mielellään julkiseen tietovarastoon, ja mielellään samaan tietovarastoon suunnitteludokumenttien ja viikkoraporttien kanssa (ks. myöhemmät kohdat).
+Kaikki tiedostot tallennetaan GitHubiin samaan tietovarastoon suunnitteludokumenttien ja viikkoraporttien kanssa (ks. myöhemmät kohdat).
 
 ## Pulmatilainteiden ratkaisu
 
