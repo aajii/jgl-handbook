@@ -280,7 +280,7 @@ Käytämme JGL:ssä GitHubia versiohallintaan. Rekisteröidy ennen lab-jakson al
 
 Mikäli et ole opiskelija, voit kuitenkin rekisteröityä GitHubiin. Riittää, että yhdellä ryhmän jäsenellä on opiskelijakortti, jolloin koko tiimi voi käyttää kyseisen jäsenen hankkimaa yksityistä varastoa. Halutessanne ryhmä voi toki myös kehittää peliä julkisessa tietovarastossa, mutta siinä tapauksessa on tietysti kiinnitettävä erityisen tarkkaa huomiota tietoturvaan (ei salasanoja tms. lähdekoodissa). 
 
-Kun tiedät ryhmäsi lopullisen kokoonpanon, lisää kaikille ryhmäsi jäsenille sekä kummiohjaajalle pääsyoikeus (collaborator) varastoon.
+Kun tiedät ryhmäsi lopullisen kokoonpanon, lisää kaikille ryhmäsi jäsenille sekä kummiohjaajalle pääsyoikeus (collaborator) varastoon. Lisää collaboratoriksi myös tekninen ohjaaja (syksyllä 2015 Juha Möttönen). 
 
 Suosittelemme, että peliprojekti laitetaan ainakin aluksi yksityiseen tietovarastoon, ja projektin valmistuessa tietovarasto voidaan tehdä julkiseksi. Suunnitteludokumentit (synopsis, ks. luku *Suunnitteludokumentit*) laitetaan julkiseen tietovarastoon, joten peliprojektia varten tarvitaan ainakin kaksi GitHub-tietovarastoa.
 
