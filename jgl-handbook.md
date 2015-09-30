@@ -41,7 +41,7 @@ On myös erittäin hyödyllistä tutustua muihin tiimeihin ja verkostoitua heid�
 
 JGL-henkilökunta pyrkii varmistamaan sen, että ryhmistä saadaan mahdollisimman *monitieteisiä ja –taitoisia*. Jokaisella ryhmän jäsenellä on oma substanssiosaamisen alue tai alueita, ja nämä eri osaamiset muodostavat kokonaisuuden. Ei ole järkeä muodostaa ryhmää, joka koostuu pelkästään graafikoista, tai pelkästään koodareista. 
 
-# Labiin rekisteröityminen
+# Järjestelmiin rekisteröityminen
 
 ## IT-palvelujen käyttölupahakemus
 
@@ -103,9 +103,95 @@ Kaikki JGL-tapahtumat (luennot, "gatet", milestonet, esittelytilaisuudet, lopetu
 
 Koska kyseessä on hanke, jossa tavoitteena on kokeilla ja selvittää erilaisten opetusmenetelmien toimivuutta, on JGL-polussa ja vaiheistuksessa hieman eroja eri sisäänottojen välillä. 
 
-## Tiimien muodostaminen
+## Peliprojektissa työskentely
 
-Tiimien muodostamisesta.
+Peliprojektin onnistumisen kannalta on erittäin tärkeää että henkilöt puhaltavat yhteen hiileen ja ponnistelevat kohti yhteisesti sovittuja tavoitteita. Tiimien muodostamistapa vaihtelee hieman iteraatioiden (kevät/syksy) välillä, ja on myös osa niitä kokeiluja, joita hankkeessa on tarkoitus tehdä. Kuitenkin, JGL-henkilökunta auttaa tiimien muodostamisessa siten, että kussakin tiimissä olisi paras yhdistelmä osaamista, kokemusta ja mielenkiinnon kohteita.
+
+Hakemusten ja haastatteluiden perusteella JGL-tiimillä on alustava kuva ryhmistä ja osallistujien rooleista. Oman roolin tiedostaminen ja kirjaaminen esimerkiksi projektin synopsikseen alkuvaiheessa on kuitenkin tärkeää, jotta ryhmä pääsee mahdollisimman nopeasti etenemään varsinaisessa työskentelyssä.
+
+## Tuottajan valinta
+
+Ryhmät valitsevat keskuudestaan tuottajan. Tuottajasta käytetään usein myös nimitystä projektipäällikkö. 
+
+Tuottaja on eittämättä ryhmän tärkeimällä paikalla, sillä hänellä täytyy olla kokonaisuus hallussa. Olemalla sopivasti "irti" juoksevista asioista tuottajalla säilyy kokonaiskuva peliprojektista ja projektitiimistä. Vaikka JGL:ssä kaikki ryhmän jäsenet ovatkin tavallaan toistensa vertaisia, odotetaan tuottajalta rohkeata vastuunottamista.
+
+Tuottaja on viime kädessä vastuussa ainakin seuraavista asioista. 
+
+ * Projektin tilan seuraaminen. Tällä tarkoitetaan kokonaisuuden hahmottamista ja aikataulussa pysymistä. Kokonaiskuvan hahmottaminen ja tarvittava reagointi kuuluu tuottajan tärkeimpiin tehtäviin. Projektihallinnan työkalujen käyttö on erittäin suositeltavaa, esimerkiksi taulukkolaskentaohjelmisto käy oikein hyvin, kuitenkin niin että projektin senhetkisestä tilasta on mahdollista tuottaa raportti pyydettäessä.
+ * Päätösten tekeminen. Peliprojekti on ennen muuta ryhmätyö, mutta tuottaja näyttää projektille suuntaa ja toimii tavallaan paimenena. Kun tuottaja saa jäsenet puhaltamaan yhteen hiileen, on hänellä myös mandaatti tehdä ryhmän johtajana myös vaikeitakin päätöksiä. 
+ * Tehtävien jakaminen ja seuranta ("backlog"). Tuottaja huolehtii, että kullakin ryhmän jäsenellä on omaa osaamistaan vastaavaa tekemistä. Tehtävien toteutumista seurataan valitulla syklillä, joka voi riippua valitusta työskentelymetodologiasta, esimerkiksi Scrum, Kanban, XP, jne. 
+ * Sisäinen viestintä. Ryhmän tehokkuus on usein yhtä kuin ryhmän jäsenten välisen kommunikaation toimivuus. Tuottaja varmistaa, että ryhmällä on tarvittavat tekniset edellytykset toimivaan viestintään, mutta ennen muuta huolehtii, että ryhmäläiset ymmärtävät toinen toisiaan ja ovat selvillä heihin kohdistuvista odotuksista. Tarvittaessa tuottaja selvittää ja sovittelee sisäisessä kommunikoinnissa esiintyviä haasteita.
+ * Ulkoinen viestintä. Ryhmä voi halutessaan perustaa esimerkiksi Twitter- tai muita sosiaalisen median tilejä, joita tuottaja ylläpitää. Sosiaalinen media on hyvä väylä tiedottaa ulospäin projektin kulusta. Kirjoitushetkellä hankkeella ei ole omia verkkosivuja joihin ryhmät voisivat itse tuottaa sisältöä. Kukin ryhmä voi kuitenkin halutessaan osallistua hankkeen viestintään oma-aloitteisesti esimerkiksi JGL:n Facebook-sivulla tai Twitterissä. 
+
+## Ryhmän visuaalinen ilme
+
+Ryhmät suunnittelevat itselleen visuaalisen ilmeen, joka sisältää logon, työhuoneen oven viereen kiinnitettävän ryhmäposterin sekä peliposterin. 
+
+ * *Logo* laaditaan vektorimuodossa ja tallennetaan PDF-tiedostona. Logon on oltava vektorimuodossa jotta sitä voidaan käyttää missä tahansa koossa tarkkuuden kärsimättä. Tee logosta mielellään sekä 4-väri että mustavalkovariaatiot. Logosta tulee olla myös eri versiot tummalle (mustalle) pohjalle sekä vaalealle (valkoiselle) pohjalle. 
+
+ * *Ryhmäposteri* sisältää kaikkien ryhmäläisten kuvat, nimet, roolit, sekä luonnollisesti myös ryhmän logon. Koko on A4 ja se tulostetaan värillisenä kunkin ryhmän oman oven viereen.
+
+ * *Peliposterin* formaatti on A2, neliväri, 1-puoleinen. Posteri sisältää Jukan posterimallissa mainitut asiat, ks. malli http://users.jyu.fi/~varsa/jgl/posteri.jpg. Peliposteri kiinnitetään ryhmän huoneen seinälle, ja sen avulla on helppo kertoa pelistä esimerkiksi vierailijoille.
+
+Kaikki tiedostot tallennetaan GitHubiin samaan tietovarastoon suunnitteludokumenttien ja viikkoraporttien kanssa (ks. myöhemmät kohdat).
+
+## Suunnitteludokumentit
+
+Karsintavaiheiden jälkeen projektiryhmä kiinnittää oman aiheensa ja laatii pelikonseptin pohjalta *synopsiksen*. Synopsis on lyhennetty versio projektisuunnitelmasta, sisältää tekstiä ja enintään pari kuvaa, ja on pituudeltaan noin pari-kolme liuskaa (noin 1000--1500 sanaa), ja siinä otetaan kantaa seuraaviin asioihin.
+
+ * Kuvaus pelikonseptista enintään parilla virkkeellä
+ * Projektiryhmän jäsenet ja heidän yhteystiedot
+ * Projektin tehtävät ja/tai vastuualueet ja niihin kuluva työmäärä tunteina
+ * Tehtävien ja työmäärän jakautuminen ryhmän jäsenten välillä. Huomioi myös säännölliset ohjaus- ym. tapaamiset. Tämä on luonnollisesti arvio, joka tarkentuu tai muuttuu projektin kuluessa.
+ * Pelissä käytetyt teknologiat karkealla tasolla: kohdealustat, ohjelmointi- ja muut työympäristöt, tarvittavat (ja käytettävissä olevat) laitteistot ja ohjelmistot
+ * Julkistussuunnitelma (eng. *release plan*), joka voi olla esimerkiksi lista päivämääristä ja ominaisuuksista ja toiminnallisuuksista jotka ovat valmiina kyseiseen päivään mennessä. Kun projektin kesto on noin 5 kuukautta, lopussa on yksi "release" ja projektin aikana näitä on yleensä 2--4 kappaletta.
+ * Riskianalyysi: riskien kartoittaminen, arviointi ja hallinta. 
+
+Synopsis laaditaan plain text -muodossa (esimerkiksi *Markdown*) ja laitetaan GitHub-versiohallintaan mielellään julkiseen tietovarastoon (ohjeet GitHub-tietovaraston hankkimisesta tämän dokumentin lopussa), jotta kaikki JGL:n henkilökunnasta pääsevät tutkimaan suunnitteludokumenttia. 
+
+Synopsista kannattaa päivittää projektin edetessä vastaamaan projektin sen hetkistä tilaa. Synopsis toimii myös lopussa projektiraportin pohjana, joten se kannattaa laatia huolella.
+
+# Rutiinit ja tapaamiset
+
+Lopullisten tiimien muodostamisen jälkeen jokainen ryhmä noudattaa JGL-viikkorutiineja, joihin kuuluvat seuraavat asiat:
+
+ * Säännöllisten ohjaustapaamisten sopiminen kummiohjaajan kanssa
+ * Osaamisaluetapaamisiin osallistuminen
+ * Viikkoraportin laatiminen
+ * Esittelytilaisuuksiin osallistuminen
+
+## Ohjaustapaamiset
+
+*Säännölliset ohjaustapaamiset* ovat viikottaisia tai enintään kahden viikon välein olevia kokoontumisia, jossa on mukana koko projektitiimi sekä kummiohjaaja. Ryhmä on itse aktiivinen oman kummiohjaajan suuntaan ja sopii ohjausajankohdan heti lopullisten ryhmien muodostamisen jälkeen. Viime kädessä tuottaja vastaa ajan sopimisesta riittävän aikaisin että ajankohta käy kaikille. Mikäli kasvokkain tapaaminen ei onnistu niin sopii tarvittaessa Skype- tai sähköpostipalaverin, mutta ensisijaisesti pyritään olemaan fyysisesti samassa tilassa. Sovituista ajoista pidetään kiinni.
+
+Ryhmä esittää ilman eri pyyntöä tapaamisessa ainakin seuraavat asiat.
+
+ * Edellisessä tapaamisessa sovittujen asioiden toteutuminen.
+ * Pelin ja projektin tila lyhyesti. 
+ * Edellisen tapaamisen jälkeen suoritetut tehtävät ja niihin käytetty aika. Mitä suunniteltua jäi tekemättä? Mitä suunnittelematonta tehtiin? 
+ * Arvio aikataulussa ja projektin laajuudessa pysymisestä. 
+
+Yksi ryhmän jäsenistä toimii sihteerinä kirjaten läsnäolijat sekä yleisluontoisesti palaverissa käsitellyt asiat ja tehdyt päätökset. Sihteeri valitaan ennen ohjaustapaamista. Muistion perusteella myös myös ne jäsenet ketkä eivät päässeet paikalle tapaamiseen saavat käsityksen palaverissa käsitellyistä ja sovituista asioista. Muistiota voi hyödyntää myös projektiraportin osana projektin päättyessä. 
+
+Muistio laaditaan plain text -formaatissa (esimerkiksi *Markdown*) ja tallennetaan Githubiin yksityiseen tietovarastoon. Laita muistion nimeksi `vvvv-kk-pp-ohjaustapaaminen.md`, eli esimerkiksi `2015-08-17-ohjaustapaaminen.md`. Jos kuitenkin ryhmän toimintamalliin paremmin sopii kirjoitettua muistiota paremmin jokin muu malli (esimerkiksi Trello-kortti tai -kortit, TODO-lista, tms.) niin tämä ei ole mikään kiveen hakattu sääntö, vaan ennemmin suositus. Tärkeintä on että ryhmän sisällä sekä ryhmän ja ohjaajan välillä tieto kulkee mutkattomasti. 
+
+## Osaamisaluetapaamiset
+
+*Osaamisaluetapaamisiin* kokoontuu säännöllisesti (viikoittain tai kahden viikon välein) tietyn osaamisalueen henkilöt *kaikista* ryhmistä. Esimerkiksi koodaajat kokoontuvat koodaajien kanssa (yhdessä teknisen tai muun ohjaajan kanssa), graafikot muiden graafikoiden kanssa ja niin edelleen. Myös tuottajat kokoontuvat muiden ryhmien tuottajien kanssa. Osaamisaluetapaamisten tarkoituksena on jakaa tietoa projekteista ja verkostoitua ryhmien välillä, mutta myös kertoa hyväksi havaituista käytänteistä ja toimintamalleista. 
+
+## Viikkoraportit
+
+Tuottaja laatii lyhyen *viikkoraportin* projektista joka viikko. Raportti pitää sisällään menneen viikon työtehtävät (karkealla tasolla) jäsenittäin ja niihin käytetyn työajan, sekä suunnitelman tulevan viikon työtehtävien jaosta ja ajoituksesta. Lisäksi viikkoraportissa on reflektio projektin kokonaiskehityksestä (aikataulu, laajuus, esiin tulleet haasteet, jne.) ja mahdolliset toimenpide-ehdotukset (rajaaminen, tehtävien tai roolien muuttaminen, jne.)
+
+Viikkoraportti laaditaan perjantaihin kello 15 mennessä. Raportti tehdään plain textina markdown-formaatissa ja se on *lyhyt ja ytimekäs*, noin 10 riviä. Anna nimeksi `viikko-vv-ryhmanNimi.md`, esimerkiksi `viikko-42-snowhound.md` ja laita se samaan yksityiseen tietovarastoon synopsiksen kanssa. 
+
+Viikkoraportti voi toimia pohjana ohjaustapaamiselle. Lisäksi se antaa JGL-projektin henkilökunnalle tärkeää tietoa ryhmien etenemisestä. 
+
+## Esittelytilaisuudet
+
+Ryhmät kokoontuvat säännöllisesti esittelemään tuotostaan ja kertomaan projektistaan. Tämä julkinen, tai JGL-projektien välinen, esiintyminen on tärkeä osa projektin etenemistä. Pelialalla on varsin tärkeää oppia kertomaan pelistä lyhyesti tai pitkästi ("pitchata") pyydettäessä. Mitä mielenkiintoisempi esityksesi on, sitä enemmän se luo kiinnostusta tuotteeseen ja voi siten saada esimerkiksi rahoittajat tai muut yhteistyökumppanit kiinnostumaan tuotteestasi. 
+
+JGL:ssä näitä esittelytilaisuuksia on ainakin *gatet* alussa (noin kaksi kappaletta), joissa valitaan parhaat ideat, sekä myöhemmin virstanpylväät (eng. *milestone*), joissa tiimit esittelevät puolivalmiita pelejä. Loppuesittelyssä jokainen tiimi esittelee valmiin tuotoksensa. Tähän tilaisuuteen on kaikilla vapaa pääsy.
 
 ## Projektin päättyminen
 
@@ -141,95 +227,7 @@ Mikäli olet työtön, rohkaisemme sinua tarkistamaan työpaikkailmoituksia ja l
 
 Prosessin jälkeen projektiin osallistuneet voivat hakea peli-idealle tai peliprotolleen jatkotyöskentely- tai rahoitusmahdollisuuksia useasta yrityshautomosta Jyväskylän alueella. Esimerkiksi JGL:n naapurissa toimiva Jyväskylän Yritystehdas on erinomainen resurssi aloittelevalle yrittäjälle. Pyrimme järjestämään säännöllisiä vierailuja Yritystehtaalla lab-jakson aikana. Huomaa, että Jyväskylä Game Lab ei tarjoa projekteille jatkorahoitusmahdollisuutta, vaan rahoitusta on haettava muista lähteistä. 
 
-# Labissa työskentely
 
-Peliprojektin onnistumisen kannalta on erittäin tärkeää että henkilöt puhaltavat yhteen hiileen ja ponnistelevat kohti yhteisesti sovittuja tavoitteita. Tiimien muodostamistapa vaihtelee hieman iteraatioiden (kevät/syksy) välillä, ja on myös osa niitä kokeiluja, joita hankkeessa on tarkoitus tehdä. Kuitenkin, JGL-henkilökunta auttaa tiimien muodostamisessa siten, että kussakin tiimissä olisi paras yhdistelmä osaamista, kokemusta ja mielenkiinnon kohteita.
-
-Hakemusten ja haastatteluiden perusteella JGL-tiimillä on alustava kuva ryhmistä ja osallistujien rooleista. Oman roolin tiedostaminen ja kirjaaminen esimerkiksi projektin synopsikseen alkuvaiheessa on kuitenkin tärkeää, jotta ryhmä pääsee mahdollisimman nopeasti etenemään varsinaisessa työskentelyssä.
-
-## Tuottajan valinta
-
-Ryhmät valitsevat keskuudestaan tuottajan. Tuottajasta käytetään usein myös nimitystä projektipäällikkö. 
-
-Tuottaja on eittämättä ryhmän tärkeimällä paikalla, sillä hänellä täytyy olla kokonaisuus hallussa. Olemalla sopivasti "irti" juoksevista asioista tuottajalla säilyy kokonaiskuva peliprojektista ja projektitiimistä. Vaikka JGL:ssä kaikki ryhmän jäsenet ovatkin tavallaan toistensa vertaisia, odotetaan tuottajalta rohkeata vastuunottamista.
-
-Tuottaja on viime kädessä vastuussa ainakin seuraavista asioista. 
-
- * Projektin tilan seuraaminen. Tällä tarkoitetaan kokonaisuuden hahmottamista ja aikataulussa pysymistä. Kokonaiskuvan hahmottaminen ja tarvittava reagointi kuuluu tuottajan tärkeimpiin tehtäviin. Projektihallinnan työkalujen käyttö on erittäin suositeltavaa, esimerkiksi taulukkolaskentaohjelmisto käy oikein hyvin, kuitenkin niin että projektin senhetkisestä tilasta on mahdollista tuottaa raportti pyydettäessä.
- * Päätösten tekeminen. Peliprojekti on ennen muuta ryhmätyö, mutta tuottaja näyttää projektille suuntaa ja toimii tavallaan paimenena. Kun tuottaja saa jäsenet puhaltamaan yhteen hiileen, on hänellä myös mandaatti tehdä ryhmän johtajana myös vaikeitakin päätöksiä. 
- * Tehtävien jakaminen ja seuranta ("backlog"). Tuottaja huolehtii, että kullakin ryhmän jäsenellä on omaa osaamistaan vastaavaa tekemistä. Tehtävien toteutumista seurataan valitulla syklillä, joka voi riippua valitusta työskentelymetodologiasta, esimerkiksi Scrum, Kanban, XP, jne. 
- * Sisäinen viestintä. Ryhmän tehokkuus on usein yhtä kuin ryhmän jäsenten välisen kommunikaation toimivuus. Tuottaja varmistaa, että ryhmällä on tarvittavat tekniset edellytykset toimivaan viestintään, mutta ennen muuta huolehtii, että ryhmäläiset ymmärtävät toinen toisiaan ja ovat selvillä heihin kohdistuvista odotuksista. Tarvittaessa tuottaja selvittää ja sovittelee sisäisessä kommunikoinnissa esiintyviä haasteita.
- * Ulkoinen viestintä. Ryhmä voi halutessaan perustaa esimerkiksi Twitter- tai muita sosiaalisen median tilejä, joita tuottaja ylläpitää. Sosiaalinen media on hyvä väylä tiedottaa ulospäin projektin kulusta. Kirjoitushetkellä hankkeella ei ole omia verkkosivuja joihin ryhmät voisivat itse tuottaa sisältöä. Kukin ryhmä voi kuitenkin halutessaan osallistua hankkeen viestintään oma-aloitteisesti esimerkiksi JGL:n Facebook-sivulla tai Twitterissä. 
-
-## Ryhmän visuaalinen ilme
-
-Ryhmät suunnittelevat itselleen visuaalisen ilmeen, joka sisältää logon, työhuoneen oven viereen kiinnitettävän ryhmäposterin sekä peliposterin. 
-
- * *Logo* laaditaan vektorimuodossa ja tallennetaan PDF-tiedostona. Logon on oltava vektorimuodossa jotta sitä voidaan käyttää missä tahansa koossa tarkkuuden kärsimättä. Tee logosta mielellään sekä 4-väri että mustavalkovariaatiot. Logosta tulee olla myös eri versiot tummalle (mustalle) pohjalle sekä vaalealle (valkoiselle) pohjalle. 
-
- * *Ryhmäposteri* sisältää kaikkien ryhmäläisten kuvat, nimet, roolit, sekä luonnollisesti myös ryhmän logon. Koko on A4 ja se tulostetaan värillisenä kunkin ryhmän oman oven viereen.
-
- * *Peliposterin* formaatti on A2, neliväri, 1-puoleinen. Posteri sisältää Jukan posterimallissa mainitut asiat, ks. malli http://users.jyu.fi/~varsa/jgl/posteri.jpg. Peliposteri kiinnitetään ryhmän huoneen seinälle, ja sen avulla on helppo kertoa pelistä esimerkiksi vierailijoille.
-
-Kaikki tiedostot tallennetaan GitHubiin samaan tietovarastoon suunnitteludokumenttien ja viikkoraporttien kanssa (ks. myöhemmät kohdat).
-
-## Pulmatilainteiden ratkaisu
-
-# Suunnitteludokumentit
-
-Karsintavaiheiden jälkeen projektiryhmä kiinnittää oman aiheensa ja laatii pelikonseptin pohjalta *synopsiksen*. Synopsis on lyhennetty versio projektisuunnitelmasta, sisältää tekstiä ja enintään pari kuvaa, ja on pituudeltaan noin pari-kolme liuskaa (noin 1000--1500 sanaa), ja siinä otetaan kantaa seuraaviin asioihin.
-
- * Kuvaus pelikonseptista enintään parilla virkkeellä
- * Projektiryhmän jäsenet ja heidän yhteystiedot
- * Projektin tehtävät ja/tai vastuualueet ja niihin kuluva työmäärä tunteina
- * Tehtävien ja työmäärän jakautuminen ryhmän jäsenten välillä. Huomioi myös säännölliset ohjaus- ym. tapaamiset. Tämä on luonnollisesti arvio, joka tarkentuu tai muuttuu projektin kuluessa.
- * Pelissä käytetyt teknologiat karkealla tasolla: kohdealustat, ohjelmointi- ja muut työympäristöt, tarvittavat (ja käytettävissä olevat) laitteistot ja ohjelmistot
- * Julkistussuunnitelma (eng. *release plan*), joka voi olla esimerkiksi lista päivämääristä ja ominaisuuksista ja toiminnallisuuksista jotka ovat valmiina kyseiseen päivään mennessä. Kun projektin kesto on noin 5 kuukautta, lopussa on yksi "release" ja projektin aikana näitä on yleensä 2--4 kappaletta.
- * Riskianalyysi: riskien kartoittaminen, arviointi ja hallinta. 
-
-Synopsis laaditaan plain text -muodossa (esimerkiksi markdown) ja laitetaan GitHub-versiohallintaan mielellään julkiseen tietovarastoon (ohjeet GitHub-tietovaraston hankkimisesta tämän dokumentin lopussa), jotta kaikki JGL:n henkilökunnasta pääsevät tutkimaan suunnitteludokumenttia. 
-
-# Rutiinit ja tapaamiset
-
-Lopullisten tiimien muodostamisen jälkeen jokainen ryhmä noudattaa JGL-viikkorutiineja, joihin kuuluvat seuraavat asiat:
-
- * Säännöllisten ohjaustapaamisten sopiminen kummiohjaajan kanssa
- * Osaamisaluetapaamisiin osallistuminen
- * Viikkoraportin laatiminen
- * Esittelytilaisuuksiin osallistuminen
-
-## Ohjaustapaamiset
-
-*Säännölliset ohjaustapaamiset* ovat viikottaisia tai enintään kahden viikon välein olevia kokoontumisia, jossa on mukana koko projektitiimi sekä kummiohjaaja. Ryhmä on itse aktiivinen oman kummiohjaajan suuntaan ja sopii ohjausajankohdan heti lopullisten ryhmien muodostamisen jälkeen. Viime kädessä tuottaja vastaa ajan sopimisesta riittävän aikaisin että ajankohta käy kaikille. Mikäli kasvokkain tapaaminen ei onnistu niin sopii tarvittaessa Skype- tai sähköpostipalaverin, mutta ensisijaisesti pyritään olemaan fyysisesti samassa tilassa. Sovituista ajoista pidetään kiinni.
-
-Ryhmä esittää ilman eri pyyntöä tapaamisessa ainakin seuraavat asiat.
-
- * Edellisessä tapaamisessa sovittujen asioiden toteutuminen.
- * Pelin ja projektin tila lyhyesti. 
- * Edellisen tapaamisen jälkeen suoritetut tehtävät ja niihin käytetty aika. Mitä suunniteltua jäi tekemättä? Mitä suunnittelematonta tehtiin? 
- * Arvio aikataulussa ja projektin laajuudessa pysymisestä. 
-
-Yksi ryhmän jäsenistä toimii sihteerinä kirjaten läsnäolijat sekä yleisluontoisesti palaverissa käsitellyt asiat ja tehdyt päätökset. Sihteeri valitaan ennen ohjaustapaamista. Muistion perusteella myös myös ne jäsenet ketkä eivät päässeet paikalle tapaamiseen saavat käsityksen palaverissa käsitellyistä ja sovituista asioista. Muistiota voi hyödyntää myös projektiraportin osana projektin päättyessä. 
-
-Muistio laaditaan plain text -formaatissa (esimerkiksi Markdown) ja tallennetaan Githubiin yksityiseen tietovarastoon. Laita muistion nimeksi `vvvv-kk-pp-ohjaustapaaminen.md`, eli esimerkiksi `2015-08-17-ohjaustapaaminen.md`. Jos kuitenkin ryhmän toimintamalliin paremmin sopii kirjoitettua muistiota paremmin jokin muu malli (esimerkiksi Trello-kortti tai -kortit, TODO-lista, tms.) niin tämä ei ole mikään kiveen hakattu sääntö, vaan ennemmin suositus. Tärkeintä on että ryhmän sisällä sekä ryhmän ja ohjaajan välillä tieto kulkee mutkattomasti.
-
-## Osaamisaluetapaamiset
-
-*Osaamisaluetapaamisiin* kokoontuu säännöllisesti (viikoittain tai kahden viikon välein) tietyn osaamisalueen henkilöt *kaikista* ryhmistä. Esimerkiksi koodaajat kokoontuvat koodaajien kanssa (yhdessä teknisen tai muun ohjaajan kanssa), graafikot muiden graafikoiden kanssa ja niin edelleen. Myös tuottajat kokoontuvat muiden ryhmien tuottajien kanssa. Osaamisaluetapaamisten tarkoituksena on jakaa tietoa projekteista ja verkostoitua ryhmien välillä, mutta myös kertoa hyväksi havaituista käytänteistä ja toimintamalleista. 
-
-## Viikkoraportit
-
-Tuottaja laatii lyhyen *viikkoraportin* projektista joka viikko. Raportti pitää sisällään menneen viikon työtehtävät (karkealla tasolla) jäsenittäin ja niihin käytetyn työajan, sekä suunnitelman tulevan viikon työtehtävien jaosta ja ajoituksesta. Lisäksi viikkoraportissa on reflektio projektin kokonaiskehityksestä (aikataulu, laajuus, esiin tulleet haasteet, jne.) ja mahdolliset toimenpide-ehdotukset (rajaaminen, tehtävien tai roolien muuttaminen, jne.)
-
-Viikkoraportti laaditaan perjantaihin kello 15 mennessä. Raportti tehdään plain textina markdown-formaatissa ja se on *lyhyt ja ytimekäs*, noin 10 riviä. Anna nimeksi `viikko-vv-ryhmanNimi.md`, esimerkiksi `viikko-42-snowhound.md` ja laita se samaan yksityiseen tietovarastoon synopsiksen kanssa. 
-
-Viikkoraportti voi toimia pohjana ohjaustapaamiselle. Lisäksi se antaa JGL-projektin henkilökunnalle tärkeää tietoa ryhmien etenemisestä. 
-
-## Esittelytilaisuudet
-
-Ryhmät kokoontuvat säännöllisesti esittelemään tuotostaan ja kertomaan projektistaan. Tämä julkinen, tai JGL-projektien välinen, esiintyminen on tärkeä osa projektin etenemistä. Pelialalla on varsin tärkeää oppia kertomaan pelistä lyhyesti tai pitkästi ("pitchata") pyydettäessä. Mitä mielenkiintoisempi esityksesi on, sitä enemmän se luo kiinnostusta tuotteeseen ja voi siten saada esimerkiksi rahoittajat tai muut yhteistyökumppanit kiinnostumaan tuotteestasi. 
-
-JGL:ssä näitä esittelytilaisuuksia on ainakin *gatet* alussa (noin kaksi kappaletta), joissa valitaan parhaat ideat, sekä myöhemmin virstanpylväät (eng. *milestone*), joissa tiimit esittelevät puolivalmiita pelejä. Loppuesittelyssä jokainen tiimi esittelee valmiin tuotoksensa. Tähän tilaisuuteen on kaikilla vapaa pääsy.
 
 # Huomautus AHOT-menettelystä
 
